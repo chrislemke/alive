@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-02-07T10:19:04.801583",
+  "model_parameters": {
+    "gate_time_us": 1.0,
+    "gate_fidelity": 0.999
+  },
+  "coherence_milestones": {
+    "old_record_s": 1.0,
+    "feb_2026_breakthrough_s": 13.0,
+    "near_term_target_s": 60.0
+  },
+  "algorithms_unlocked": {
+    "1s_to_13s": [],
+    "13s_to_60s": []
+  },
+  "key_insights": {
+    "impact_1s_to_13s": 0,
+    "impact_13s_to_60s": 0,
+    "total_feasible_at_1s": 10,
+    "total_feasible_at_13s": 10,
+    "total_feasible_at_60s": 10
+  }
+}

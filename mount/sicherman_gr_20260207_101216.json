@@ -1,0 +1,15 @@
+{
+  "lambda_degeneracy": {
+    "max_difference": 0.0,
+    "models_equivalent": true
+  },
+  "eos_degeneracy": {
+    "max_difference": 0.5184399430907908,
+    "models_equivalent": false
+  },
+  "conformal_equivalence": {
+    "einstein_gravity_has_degeneracy": false,
+    "weyl_gravity_has_degeneracy": true,
+    "conclusion": "Sicherman property depends on which gravitational theory you use"
+  }
+}

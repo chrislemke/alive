@@ -1,0 +1,69 @@
+{
+  "mass_gap_event_rate": {
+    "prediction": "19-63 events with M > 50 M\u2609",
+    "o5_total_events": 625.6,
+    "mass_gap_events_low": 18.768,
+    "mass_gap_events_high": 62.56,
+    "confidence": "68% confidence interval",
+    "test_time": "2029 (end of O5)",
+    "falsification": "If < 5 events, AGN disk hypothesis in trouble. If > 100, need to revise AGN fraction."
+  },
+  "spin_mass_correlation": {
+    "prediction": "Positive correlation: \u03c7 = 0.3 + 0.007 \u00d7 (M - 30) for M > 50 M\u2609",
+    "agn_slope": 0.007,
+    "agn_intercept": 0.3,
+    "pop_iii_slope": 0.0,
+    "pop_iii_scatter": 0.2,
+    "test": "Linear regression on LIGO O5 mass-gap events",
+    "discriminant": "Slope > 0.005 \u2192 AGN disk; Slope ~ 0 \u2192 Pop III",
+    "min_events_needed": 20,
+    "test_time": "2029-2030"
+  },
+  "host_galaxy_signatures": {
+    "prediction_1": "Host galaxies have AGN signatures (X-ray, radio, optical emission lines)",
+    "agn_fraction_hosts": "60-80% (vs ~10% for field galaxies)",
+    "test_1": "Follow-up observations with Chandra, VLA, optical spectroscopy",
+    "prediction_2": "Redshift distribution peaks at z ~ 0.8-1.5 (AGN peak era)",
+    "mean_redshift": 1.0,
+    "redshift_std": 0.5,
+    "test_2": "Redshift distribution of mass-gap events in O5",
+    "prediction_3": "Host stellar mass M* > 10^10.5 M\u2609 (massive galaxies)",
+    "test_3": "Galaxy mass estimates from photometry",
+    "test_time": "2028-2032 (requires good sky localization)",
+    "falsification": "If hosts are dwarf galaxies or no AGN signatures, rules out AGN disk"
+  },
+  "eccentricity_constraints": {
+    "prediction": "Eccentricity e < 10^-4 at 10 Hz for mass-gap events from AGN disks",
+    "agn_e_max": 0.0001,
+    "cluster_e_typical": 0.005,
+    "test": "Improved eccentricity measurements with O5 sensitivity",
+    "discriminant": "e < 10^-3 \u2192 AGN disk; e > 10^-3 \u2192 cluster",
+    "test_time": "2029+ (requires high SNR events)",
+    "current_limit": "e < 0.01 (GW231123, limited by sensitivity)"
+  },
+  "population_synthesis": {
+    "prediction_1": "Bimodal mass distribution: peak at M ~ 30 M\u2609 (gen 0-1) and M ~ 100-140 M\u2609 (gen 2-4)",
+    "mass_gap_depletion": "Depletion in 50-80 M\u2609 range (PISN gap)",
+    "test_1": "Mass distribution from O5 (need ~100+ events)",
+    "prediction_2": "Bimodal spin distribution: \u03c7 < 0.5 (60%) and \u03c7 > 0.85 (40%)",
+    "test_2": "Spin distribution from O5",
+    "prediction_3": "Merger rate increases with redshift up to z ~ 2 (follows AGN activity)",
+    "rate_evolution": "dN/dz \u221d (1+z)^2.5 for z < 2",
+    "test_3": "Redshift-dependent merger rate",
+    "test_time": "2030+ (requires large O5 catalog)",
+    "falsification": "Uniform mass/spin distributions would rule out hierarchical mergers"
+  },
+  "gw231123_specific": {
+    "prediction_1": "Improved parameter estimation with O5 data (if similar events) \u2192 \u03c7_eff > 0.9",
+    "current_uncertainty": "\u00b10.1 on spin",
+    "improved_uncertainty": "\u00b10.03 (with more similar events)",
+    "prediction_2": "Host galaxy has AGN (if localization < 100 deg\u00b2)",
+    "current_localization": "~1000 deg\u00b2 (poor)",
+    "needed_localization": "< 100 deg\u00b2 for galaxy ID",
+    "test_approach": "Multi-messenger follow-up if similar event in O5",
+    "prediction_3": "No electromagnetic counterpart (despite AGN environment)",
+    "reasoning": "BH-BH mergers in AGN disks are gas-poor at merger (cleared cavity)",
+    "test": "EM follow-up of well-localized mass-gap events",
+    "test_time": "2027-2030"
+  }
+}

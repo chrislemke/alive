@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-02-07T10:21:54.965311",
+  "rankings": {
+    "by_efficiency": [
+      {
+        "name": "Fidelity (99.9% \u2192 99.95%)",
+        "efficiency": 0.375,
+        "algorithms_unlocked": 3,
+        "difficulty": 4,
+        "timeline_years": 2
+      },
+      {
+        "name": "Fidelity (99.9% \u2192 99.99%)",
+        "efficiency": 0.17857142857142858,
+        "algorithms_unlocked": 5,
+        "difficulty": 7,
+        "timeline_years": 4
+      },
+      {
+        "name": "Fidelity (99.9% \u2192 99.999%)",
+        "efficiency": 0.11428571428571428,
+        "algorithms_unlocked": 8,
+        "difficulty": 10,
+        "timeline_years": 7
+      },
+      {
+        "name": "Coherence (13s \u2192 30s)",
+        "efficiency": 0.0,
+        "algorithms_unlocked": 0,
+        "difficulty": 3,
+        "timeline_years": 2
+      },
+      {
+        "name": "Coherence (13s \u2192 100s)",
+        "efficiency": 0.0,
+        "algorithms_unlocked": 0,
+        "difficulty": 6,
+        "timeline_years": 5
+      },
+      {
+        "name": "Qubits (6k \u2192 100k)",
+        "efficiency": 0.0,
+        "algorithms_unlocked": 0,
+        "difficulty": 5,
+        "timeline_years": 3
+      },
+      {
+        "name": "Gate time (1\u03bcs \u2192 0.1\u03bcs)",
+        "efficiency": 0.0,
+        "algorithms_unlocked": 0,
+        "difficulty": 6,
+        "timeline_years": 4
+      },
+      {
+        "name": "Error correction (physical \u2192 logical)",
+        "efficiency": 0.0,
+        "algorithms_unlocked": 0,
+        "difficulty": 8,
+        "timeline_years": 5
+      }
+    ],
+    "by_impact": [
+      {
+        "name": "Fidelity (99.9% \u2192 99.999%)",
+        "algorithms_unlocked": 8
+      },
+      {
+        "name": "Fidelity (99.9% \u2192 99.99%)",
+        "algorithms_unlocked": 5
+      },
+      {
+        "name": "Fidelity (99.9% \u2192 99.95%)",
+        "algorithms_unlocked": 3
+      },
+      {
+        "name": "Coherence (13s \u2192 30s)",
+        "algorithms_unlocked": 0
+      },
+      {
+        "name": "Coherence (13s \u2192 100s)",
+        "algorithms_unlocked": 0
+      },
+      {
+        "name": "Qubits (6k \u2192 100k)",
+        "algorithms_unlocked": 0
+      },
+      {
+        "name": "Gate time (1\u03bcs \u2192 0.1\u03bcs)",
+        "algorithms_unlocked": 0
+      },
+      {
+        "name": "Error correction (physical \u2192 logical)",
+        "algorithms_unlocked": 0
+      }
+    ]
+  },
+  "strategic_insights": {
+    "fidelity_vs_coherence_ratio": 0.0,
+    "recommended_phase_1": "Fidelity 99.9% \u2192 99.95%",
+    "recommended_phase_2": "Error correction (logical qubits)",
+    "recommended_phase_3": "Coherence + scale"
+  }
+}

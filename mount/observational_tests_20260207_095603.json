@@ -1,0 +1,58 @@
+{
+  "models": [
+    {
+      "name": "Standard",
+      "M_BH_to_M_stellar": 0.0001,
+      "EW_Ha": 100,
+      "OIII_Hbeta": 3.0,
+      "UV_slope_beta": -2.5,
+      "dust_tau": 0.1,
+      "half_light_radius_kpc": 0.2954176939062777,
+      "mean_stellar_mass": 0.5
+    },
+    {
+      "name": "Enhanced SFE",
+      "M_BH_to_M_stellar": 0.0001,
+      "EW_Ha": 300,
+      "OIII_Hbeta": 4.0,
+      "UV_slope_beta": -2.8,
+      "dust_tau": 0.05,
+      "half_light_radius_kpc": 0.22080657684535,
+      "mean_stellar_mass": 0.5
+    },
+    {
+      "name": "Top-Heavy IMF",
+      "M_BH_to_M_stellar": 0.0001,
+      "EW_Ha": 250,
+      "OIII_Hbeta": 6.0,
+      "UV_slope_beta": -2.0,
+      "dust_tau": 0.3,
+      "half_light_radius_kpc": 0.2954176939062777,
+      "mean_stellar_mass": 2.0
+    },
+    {
+      "name": "Combined",
+      "M_BH_to_M_stellar": 0.0001,
+      "EW_Ha": 280,
+      "OIII_Hbeta": 5.0,
+      "UV_slope_beta": -2.3,
+      "dust_tau": 0.2,
+      "half_light_radius_kpc": 0.2714766552217271,
+      "mean_stellar_mass": 1.0
+    },
+    {
+      "name": "PBH Seeding",
+      "M_BH_to_M_stellar": 0.027777777777777776,
+      "EW_Ha": 50,
+      "OIII_Hbeta": 10.0,
+      "UV_slope_beta": -1.5,
+      "dust_tau": 0.5,
+      "half_light_radius_kpc": 0.15430562390265123,
+      "mean_stellar_mass": 0.5
+    }
+  ],
+  "test_case": {
+    "redshift": 10,
+    "halo_mass": 50000000000.0
+  }
+}

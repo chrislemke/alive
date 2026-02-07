@@ -1,0 +1,203 @@
+{
+  "mass_gap_boundaries": {
+    "Solar metallicity (Z=Z\u2609)": {
+      "M_pulsation": 45.913513161847135,
+      "M_lo": 56.11651608670205,
+      "M_hi": 137.7405394855414
+    },
+    "Low metallicity (Z=0.01 Z\u2609)": {
+      "M_pulsation": 51.6163410448206,
+      "M_lo": 63.08663905478073,
+      "M_hi": 154.84902313446182
+    },
+    "Pop III (Z=0)": {
+      "M_pulsation": 51.74999999999999,
+      "M_lo": 63.24999999999999,
+      "M_hi": 155.25
+    },
+    "Solar Z, rotating (\u03a9=0.5)": {
+      "M_pulsation": 45.913513161847135,
+      "M_lo": 58.922341891037156,
+      "M_hi": 144.62756645981847
+    },
+    "Pessimistic rates": {
+      "M_pulsation": 45.913513161847135,
+      "M_lo": 65.29921871907148,
+      "M_hi": 164.26834709016418
+    }
+  },
+  "gw231123_100": {
+    "can_produce": true,
+    "num_scenarios": 52084,
+    "scenarios": [
+      {
+        "initial_mass": 158.77755511022045,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 95.26653306613227,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 159.35871743486976,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 95.61523046092185,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 159.93987975951904,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 95.96392785571142,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 160.52104208416836,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 96.31262525050101,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 161.10220440881764,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 96.66132264529058,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 161.68336673346695,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 97.01002004008016,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 162.26452905811624,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 97.35871743486975,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 162.84569138276555,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 97.70741482965933,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 163.42685370741484,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 98.0561122244489,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 164.00801603206415,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 98.40480961923849,
+        "remnant_type": "heavy_black_hole"
+      }
+    ],
+    "closest_miss": null
+  },
+  "gw231123_140": {
+    "can_produce": true,
+    "num_scenarios": 108000,
+    "scenarios": [
+      {
+        "initial_mass": 222.124248496994,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 133.2745490981964,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 222.70541082164328,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 133.62324649298597,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 223.2865731462926,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 133.97194388777555,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 223.86773547094188,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 134.32064128256513,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 224.4488977955912,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 134.66933867735472,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 225.03006012024048,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 135.01803607214427,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 225.6112224448898,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 135.36673346693388,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 226.19238476953907,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 135.71543086172343,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 226.7735470941884,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 136.06412825651302,
+        "remnant_type": "heavy_black_hole"
+      },
+      {
+        "initial_mass": 227.35470941883767,
+        "metallicity": 0.0,
+        "rotation": 0.0,
+        "uncertainty": "optimistic",
+        "remnant_mass": 136.4128256513026,
+        "remnant_type": "heavy_black_hole"
+      }
+    ],
+    "closest_miss": null
+  }
+}

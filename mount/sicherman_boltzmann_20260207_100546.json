@@ -1,0 +1,146 @@
+{
+  "Boltzmann": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 1.1102230246251565e-16
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 0.0
+    }
+  },
+  "PowerLaw(\u03b1=1.5)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    }
+  },
+  "PowerLaw(\u03b1=2.0)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    }
+  },
+  "PowerLaw(\u03b1=3.0)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 0.0
+    }
+  },
+  "StretchedExp(\u03b2=0.5)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 0.0
+    }
+  },
+  "StretchedExp(\u03b2=1.5)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    }
+  },
+  "Tsallis(q=1.5)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 2.7755575615628914e-17
+    }
+  },
+  "Tsallis(q=2.0)": {
+    "0.5": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "1.0": {
+      "passes": true,
+      "max_difference": 0.0
+    },
+    "2.0": {
+      "passes": true,
+      "max_difference": 5.551115123125783e-17
+    },
+    "5.0": {
+      "passes": true,
+      "max_difference": 0.0
+    }
+  }
+}

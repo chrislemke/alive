@@ -1,0 +1,111 @@
+{
+  "scores": {
+    "Pop III Collapse": {
+      "total_score": 1,
+      "reasons": [
+        "+2: Can produce both masses",
+        "+0: Spin uncertain",
+        "-1: Very rare (unlikely)"
+      ],
+      "verdict": "MARGINALLY VIABLE"
+    },
+    "AGN Disk Mergers": {
+      "total_score": 5,
+      "reasons": [
+        "+2: Can produce both masses",
+        "+2: High spin matches \u03c7~0.99",
+        "+1: Merger rate plausible"
+      ],
+      "verdict": "STRONGLY FAVORED"
+    },
+    "Nuclear Cluster": {
+      "total_score": -1,
+      "reasons": [
+        "-2: Cannot produce masses",
+        "+1: Merger rate plausible"
+      ],
+      "verdict": "UNLIKELY"
+    },
+    "Globular Cluster": {
+      "total_score": -2,
+      "reasons": [
+        "-2: Cannot produce masses"
+      ],
+      "verdict": "UNLIKELY"
+    },
+    "Primordial BHs": {
+      "total_score": 0,
+      "reasons": [
+        "+2: Can produce both masses",
+        "-2: Low spin contradicts observation"
+      ],
+      "verdict": "MARGINALLY VIABLE"
+    },
+    "Stellar Merger \u2192 BH": {
+      "total_score": 2,
+      "reasons": [
+        "+2: Can produce both masses",
+        "+1: Moderate spin (possible)",
+        "-1: Very rare (unlikely)"
+      ],
+      "verdict": "PLAUSIBLE"
+    }
+  },
+  "ranked_channels": [
+    "AGN Disk Mergers",
+    "Stellar Merger \u2192 BH",
+    "Pop III Collapse",
+    "Primordial BHs",
+    "Nuclear Cluster",
+    "Globular Cluster"
+  ],
+  "winner": "AGN Disk Mergers",
+  "winner_score": 5,
+  "discriminant_matrix": {
+    "mass_100": {
+      "observed": 100.0,
+      "Pop III Collapse": "Marginal (needs Z=0, optimistic rates)",
+      "AGN Disk Mergers": "\u2713 Easy (100% success)",
+      "Nuclear Cluster": "\u2717 Cannot produce",
+      "Globular Cluster": "\u2717 Cannot produce",
+      "Primordial BHs": "\u2713 Any mass",
+      "Stellar Merger \u2192 BH": "\u2713 Possible"
+    },
+    "mass_140": {
+      "observed": 140.0,
+      "Pop III Collapse": "Marginal (M_init ~ 220 M\u2609, Z=0)",
+      "AGN Disk Mergers": "\u2713 Easy (100% success)",
+      "Nuclear Cluster": "\u2717 Cannot produce",
+      "Globular Cluster": "\u2717 Cannot produce",
+      "Primordial BHs": "\u2713 Any mass",
+      "Stellar Merger \u2192 BH": "\u2713 Possible (rare)"
+    },
+    "spin_high": {
+      "observed": "\u03c7 ~ 0.99 (near maximal)",
+      "Pop III Collapse": "? Moderate (\u03c7 ~ 0.3-0.7)",
+      "AGN Disk Mergers": "\u2713\u2713 \u03c7 ~ 0.99 \u00b1 0.03 (PERFECT MATCH)",
+      "Nuclear Cluster": "N/A",
+      "Globular Cluster": "N/A",
+      "Primordial BHs": "\u2717 \u03c7 ~ 0 (near zero)",
+      "Stellar Merger \u2192 BH": "? Moderate (\u03c7 ~ 0.4-0.8)"
+    },
+    "eccentricity": {
+      "observed": "e < 0.01 (circular)",
+      "Pop III Collapse": "\u2713 e = 0 (binary evolution)",
+      "AGN Disk Mergers": "\u2713 e = 0 (gas circularizes)",
+      "Nuclear Cluster": "\u2713 e ~ 0 (GW circularizes)",
+      "Globular Cluster": "? e ~ 0.01 (slight residual)",
+      "Primordial BHs": "\u2713 e = 0",
+      "Stellar Merger \u2192 BH": "\u2713 e = 0"
+    },
+    "merger_rate": {
+      "observed": "1 event in O4 (391 total)",
+      "Pop III Collapse": "\u2717 Very rare (Pop III rare)",
+      "AGN Disk Mergers": "\u2713 Moderate (10-20% of events plausible)",
+      "Nuclear Cluster": "? Moderate (but can't produce masses)",
+      "Globular Cluster": "? Moderate (but can't produce masses)",
+      "Primordial BHs": "\u2717 Would dominate if abundant",
+      "Stellar Merger \u2192 BH": "\u2717 Very rare"
+    }
+  }
+}

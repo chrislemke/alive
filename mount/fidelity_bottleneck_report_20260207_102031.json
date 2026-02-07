@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-02-07T10:20:31.814457",
+  "key_insight": "Fidelity is the bottleneck, not coherence time",
+  "impact": {
+    "coherence_1s_to_13s": 0,
+    "fidelity_999_to_9999": 5,
+    "fidelity_more_impactful": true
+  },
+  "required_fidelity": {
+    "1k_gates": 0.9993070929904525,
+    "10k_gates": 0.9999306876841536,
+    "100k_gates": 0.999993068552217,
+    "1M_gates": 0.9999993068530597
+  },
+  "algorithms_unlocked_by_better_fidelity": [
+    {
+      "name": "Grover-1024",
+      "depth": 1024,
+      "qubits": 10,
+      "description": "Search 2^10 items"
+    },
+    {
+      "name": "N2-molecule",
+      "depth": 2000,
+      "qubits": 20,
+      "description": "Nitrogen molecule simulation"
+    },
+    {
+      "name": "QAOA-p10-50",
+      "depth": 1000,
+      "qubits": 50,
+      "description": "QAOA depth 10, 50 variables"
+    },
+    {
+      "name": "QAOA-p20-100",
+      "depth": 4000,
+      "qubits": 100,
+      "description": "QAOA depth 20, 100 variables"
+    },
+    {
+      "name": "QML-medium",
+      "depth": 1000,
+      "qubits": 20,
+      "description": "Medium quantum neural network"
+    }
+  ]
+}

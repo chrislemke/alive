@@ -1,0 +1,39 @@
+{
+  "parameters": {
+    "redshift": 10,
+    "halo_mass": 50000000000.0,
+    "gas_fraction": 0.9,
+    "metallicity": 0.001
+  },
+  "results": [
+    {
+      "model": "Standard",
+      "M_stars": 720000000.0,
+      "M_BH": 0,
+      "L_UV": 5.4e+44,
+      "SFR": 7.2
+    },
+    {
+      "model": "Enhanced SFE",
+      "M_stars": 2160000000.0,
+      "M_BH": 0,
+      "L_UV": 1.944e+45,
+      "SFR": 43.2
+    },
+    {
+      "model": "Top-Heavy IMF",
+      "M_stars": 720000000.0,
+      "M_BH": 0,
+      "L_UV": 3.1681303757356266e+44,
+      "SFR": 7.2
+    },
+    {
+      "model": "PBH Seeding",
+      "M_stars": 360000000.0,
+      "M_BH": 152240.07671783183,
+      "L_UV": 2.3496660366170056e+44,
+      "SFR": 1.8
+    }
+  ],
+  "analysis": "JWST 2\u00d7 brightness excess at z=6-14"
+}

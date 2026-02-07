@@ -1,0 +1,62 @@
+{
+  "globular_cluster": {
+    "100_solar_masses": {
+      "target_mass": 100,
+      "success_rate": 0.0,
+      "num_trials": 50,
+      "environment": "globular_cluster",
+      "typical_spin": null,
+      "spin_std": null,
+      "typical_generation": null
+    },
+    "140_solar_masses": {
+      "target_mass": 140,
+      "success_rate": 0.0,
+      "num_trials": 50,
+      "environment": "globular_cluster",
+      "typical_spin": null,
+      "spin_std": null,
+      "typical_generation": null
+    }
+  },
+  "nuclear_cluster": {
+    "100_solar_masses": {
+      "target_mass": 100,
+      "success_rate": 0.0,
+      "num_trials": 50,
+      "environment": "nuclear_cluster",
+      "typical_spin": null,
+      "spin_std": null,
+      "typical_generation": null
+    },
+    "140_solar_masses": {
+      "target_mass": 140,
+      "success_rate": 0.0,
+      "num_trials": 50,
+      "environment": "nuclear_cluster",
+      "typical_spin": null,
+      "spin_std": null,
+      "typical_generation": null
+    }
+  },
+  "agn_disk": {
+    "100_solar_masses": {
+      "target_mass": 100,
+      "success_rate": 1.0,
+      "num_trials": 50,
+      "environment": "agn_disk",
+      "typical_spin": 0.9917923282850571,
+      "spin_std": 0.026560045295656125,
+      "typical_generation": 2.76
+    },
+    "140_solar_masses": {
+      "target_mass": 140,
+      "success_rate": 1.0,
+      "num_trials": 50,
+      "environment": "agn_disk",
+      "typical_spin": 0.998,
+      "spin_std": 0.0,
+      "typical_generation": 3.68
+    }
+  }
+}
