@@ -1,0 +1,826 @@
+{
+  "simulation": {
+    "rounds": 3000,
+    "success_rate": 0.299
+  },
+  "agents": [
+    {
+      "id": 0,
+      "success_rate": 0.299,
+      "lexicon": {
+        "red": "s6",
+        "small": "s1",
+        "square": "s9",
+        "triangle": "s9",
+        "circle": "s11",
+        "blue": "s9",
+        "green": "s11",
+        "large": "s11"
+      },
+      "meanings": {
+        "s9": {
+          "blue": 16.231185670007388,
+          "large": 11.144567741114415,
+          "small": 7.646679374540809,
+          "square": 7.188006196151642,
+          "triangle": 5.806867158697945
+        },
+        "s6": {
+          "red": 15.344589567894966,
+          "small": 8.596668114984857,
+          "large": 7.998930330898872,
+          "square": 6.392262053737107,
+          "circle": 6.152079610942555
+        },
+        "s13": {
+          "small": 0.6976022257681195,
+          "circle": 0.5008117536809036,
+          "blue": 0.47348260417522653,
+          "square": 0.1407140150032374,
+          "green": 0.12468018890020827
+        },
+        "s1": {
+          "small": 11.559798518148906,
+          "blue": 5.9299555857301165,
+          "square": 5.341122345635073,
+          "circle": 3.9574846311040703,
+          "green": 3.0243228809969644
+        },
+        "s11": {
+          "circle": 18.898268272353597,
+          "large": 11.875206241064904,
+          "green": 8.732645921136116,
+          "small": 8.192785643745694,
+          "blue": 5.6966684377241315
+        },
+        "s0": {
+          "small": 2.969582014065776,
+          "triangle": 2.531384990991037,
+          "green": 2.2608022429904757,
+          "red": 0.4807069750146974,
+          "square": 0.37011044992377534
+        }
+      }
+    },
+    {
+      "id": 1,
+      "success_rate": 0.299,
+      "lexicon": {
+        "square": "s9",
+        "red": "s6",
+        "small": "s1",
+        "triangle": "s9",
+        "circle": "s11",
+        "green": "s11",
+        "blue": "s9",
+        "large": "s11"
+      },
+      "meanings": {
+        "s9": {
+          "blue": 16.231185670007388,
+          "large": 11.144567741114415,
+          "small": 7.646679374540809,
+          "square": 7.188006196151642,
+          "triangle": 5.806867158697945
+        },
+        "s6": {
+          "red": 15.344589567894966,
+          "small": 8.596668114984857,
+          "large": 7.998930330898872,
+          "square": 6.392262053737107,
+          "circle": 6.152079610942555
+        },
+        "s13": {
+          "small": 0.6976022257681195,
+          "circle": 0.5008117536809036,
+          "blue": 0.47348260417522653,
+          "square": 0.1407140150032374,
+          "green": 0.12468018890020827
+        },
+        "s1": {
+          "small": 11.559798518148906,
+          "blue": 5.9299555857301165,
+          "square": 5.341122345635073,
+          "circle": 3.9574846311040703,
+          "green": 3.0243228809969644
+        },
+        "s11": {
+          "circle": 18.898268272353597,
+          "large": 11.875206241064904,
+          "green": 8.732645921136116,
+          "small": 8.192785643745694,
+          "blue": 5.6966684377241315
+        },
+        "s0": {
+          "small": 2.969582014065776,
+          "triangle": 2.531384990991037,
+          "green": 2.2608022429904757,
+          "red": 0.4807069750146974,
+          "square": 0.37011044992377534
+        }
+      }
+    }
+  ],
+  "history_sample": [
+    {
+      "round": 2901,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-blue-square",
+      "success": true
+    },
+    {
+      "round": 2902,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-blue-square",
+      "success": true
+    },
+    {
+      "round": 2903,
+      "difficulty": 2,
+      "signal": "s9-s11",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2904,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-green-square",
+      "success": false
+    },
+    {
+      "round": 2905,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "small-blue-square",
+      "success": true
+    },
+    {
+      "round": 2906,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2907,
+      "difficulty": 2,
+      "signal": "s9-s11",
+      "target": "large-green-circle",
+      "success": false
+    },
+    {
+      "round": 2908,
+      "difficulty": 2,
+      "signal": "s11-s11",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2909,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2910,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-blue-triangle",
+      "success": true
+    },
+    {
+      "round": 2911,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2912,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-green-square",
+      "success": false
+    },
+    {
+      "round": 2913,
+      "difficulty": 2,
+      "signal": "s9-s9-s9",
+      "target": "large-blue-square",
+      "success": false
+    },
+    {
+      "round": 2914,
+      "difficulty": 2,
+      "signal": "s6-s11-s1",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2915,
+      "difficulty": 2,
+      "signal": "s9-s1",
+      "target": "large-green-square",
+      "success": false
+    },
+    {
+      "round": 2916,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-circle",
+      "success": true
+    },
+    {
+      "round": 2917,
+      "difficulty": 2,
+      "signal": "s6-s11-s1",
+      "target": "small-red-circle",
+      "success": false
+    },
+    {
+      "round": 2918,
+      "difficulty": 2,
+      "signal": "s1-s9",
+      "target": "small-blue-square",
+      "success": false
+    },
+    {
+      "round": 2919,
+      "difficulty": 2,
+      "signal": "s1",
+      "target": "large-red-square",
+      "success": false
+    },
+    {
+      "round": 2920,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2921,
+      "difficulty": 2,
+      "signal": "s9-s11",
+      "target": "large-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2922,
+      "difficulty": 2,
+      "signal": "s6-s6",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2923,
+      "difficulty": 2,
+      "signal": "s6-s6",
+      "target": "small-red-square",
+      "success": false
+    },
+    {
+      "round": 2924,
+      "difficulty": 2,
+      "signal": "s6-s6",
+      "target": "small-red-triangle",
+      "success": false
+    },
+    {
+      "round": 2925,
+      "difficulty": 2,
+      "signal": "s6-s11-s9",
+      "target": "large-red-circle",
+      "success": false
+    },
+    {
+      "round": 2926,
+      "difficulty": 2,
+      "signal": "s6-s6",
+      "target": "small-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2927,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-blue-triangle",
+      "success": false
+    },
+    {
+      "round": 2928,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2929,
+      "difficulty": 2,
+      "signal": "s6-s11-s1",
+      "target": "small-red-square",
+      "success": false
+    },
+    {
+      "round": 2930,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-square",
+      "success": true
+    },
+    {
+      "round": 2931,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2932,
+      "difficulty": 2,
+      "signal": "s11-s11-s9",
+      "target": "small-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2933,
+      "difficulty": 2,
+      "signal": "s6-s11",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2934,
+      "difficulty": 2,
+      "signal": "s9-s11-s9",
+      "target": "large-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2935,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-circle",
+      "success": false
+    },
+    {
+      "round": 2936,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-blue-square",
+      "success": false
+    },
+    {
+      "round": 2937,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2938,
+      "difficulty": 2,
+      "signal": "s9-s9",
+      "target": "large-blue-triangle",
+      "success": false
+    },
+    {
+      "round": 2939,
+      "difficulty": 2,
+      "signal": "s11-s11",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2940,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-blue-triangle",
+      "success": true
+    },
+    {
+      "round": 2941,
+      "difficulty": 2,
+      "signal": "s6-s9-s9",
+      "target": "large-red-triangle",
+      "success": false
+    },
+    {
+      "round": 2942,
+      "difficulty": 2,
+      "signal": "s1",
+      "target": "large-blue-square",
+      "success": false
+    },
+    {
+      "round": 2943,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2944,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2945,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2946,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2947,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-square",
+      "success": true
+    },
+    {
+      "round": 2948,
+      "difficulty": 2,
+      "signal": "s6-s6",
+      "target": "small-red-square",
+      "success": false
+    },
+    {
+      "round": 2949,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2950,
+      "difficulty": 2,
+      "signal": "s9-s6-s9",
+      "target": "large-blue-square",
+      "success": true
+    },
+    {
+      "round": 2951,
+      "difficulty": 2,
+      "signal": "s11-s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2952,
+      "difficulty": 2,
+      "signal": "s6-s11-s6",
+      "target": "small-red-square",
+      "success": true
+    },
+    {
+      "round": 2953,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-blue-triangle",
+      "success": false
+    },
+    {
+      "round": 2954,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2955,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-red-square",
+      "success": false
+    },
+    {
+      "round": 2956,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2957,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2958,
+      "difficulty": 2,
+      "signal": "s6-s9",
+      "target": "large-red-square",
+      "success": true
+    },
+    {
+      "round": 2959,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-blue-square",
+      "success": false
+    },
+    {
+      "round": 2960,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2961,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-square",
+      "success": true
+    },
+    {
+      "round": 2962,
+      "difficulty": 2,
+      "signal": "s6-s11",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2963,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-square",
+      "success": false
+    },
+    {
+      "round": 2964,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2965,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2966,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2967,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2968,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "small-blue-triangle",
+      "success": true
+    },
+    {
+      "round": 2969,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2970,
+      "difficulty": 2,
+      "signal": "s6-s11",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2971,
+      "difficulty": 2,
+      "signal": "s6-s11",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2972,
+      "difficulty": 2,
+      "signal": "s6-s9-s6",
+      "target": "small-blue-triangle",
+      "success": true
+    },
+    {
+      "round": 2973,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2974,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2975,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2976,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-green-square",
+      "success": false
+    },
+    {
+      "round": 2977,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-square",
+      "success": false
+    },
+    {
+      "round": 2978,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2979,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2980,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-circle",
+      "success": true
+    },
+    {
+      "round": 2981,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-circle",
+      "success": false
+    },
+    {
+      "round": 2982,
+      "difficulty": 2,
+      "signal": "s6-s6-s9",
+      "target": "small-blue-square",
+      "success": false
+    },
+    {
+      "round": 2983,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-blue-square",
+      "success": false
+    },
+    {
+      "round": 2984,
+      "difficulty": 2,
+      "signal": "s6-s9-s6",
+      "target": "large-red-square",
+      "success": true
+    },
+    {
+      "round": 2985,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-triangle",
+      "success": true
+    },
+    {
+      "round": 2986,
+      "difficulty": 2,
+      "signal": "s9-s11-s9",
+      "target": "large-blue-circle",
+      "success": false
+    },
+    {
+      "round": 2987,
+      "difficulty": 2,
+      "signal": "s9-s11-s9",
+      "target": "large-blue-circle",
+      "success": true
+    },
+    {
+      "round": 2988,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "small-blue-triangle",
+      "success": true
+    },
+    {
+      "round": 2989,
+      "difficulty": 2,
+      "signal": "s6-s11-s6",
+      "target": "small-red-circle",
+      "success": false
+    },
+    {
+      "round": 2990,
+      "difficulty": 2,
+      "signal": "s6-s9",
+      "target": "small-blue-circle",
+      "success": false
+    },
+    {
+      "round": 2991,
+      "difficulty": 2,
+      "signal": "s6-s6-s6",
+      "target": "small-red-square",
+      "success": false
+    },
+    {
+      "round": 2992,
+      "difficulty": 2,
+      "signal": "s6-s9",
+      "target": "small-blue-square",
+      "success": false
+    },
+    {
+      "round": 2993,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2994,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "large-green-circle",
+      "success": true
+    },
+    {
+      "round": 2995,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2996,
+      "difficulty": 2,
+      "signal": "s11",
+      "target": "small-green-circle",
+      "success": false
+    },
+    {
+      "round": 2997,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "large-red-circle",
+      "success": true
+    },
+    {
+      "round": 2998,
+      "difficulty": 2,
+      "signal": "s9",
+      "target": "large-green-triangle",
+      "success": false
+    },
+    {
+      "round": 2999,
+      "difficulty": 2,
+      "signal": "s1-s9",
+      "target": "small-blue-square",
+      "success": true
+    },
+    {
+      "round": 3000,
+      "difficulty": 2,
+      "signal": "s6",
+      "target": "small-red-square",
+      "success": true
+    }
+  ]
+}

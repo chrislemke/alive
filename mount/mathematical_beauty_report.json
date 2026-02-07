@@ -1,0 +1,99 @@
+{
+  "num_analyzed": 15,
+  "most_beautiful": {
+    "expression": "e^(i\u03c0) + 1 = 0",
+    "score": 0.51,
+    "dimensions": {
+      "simplicity": 0,
+      "symmetry": 0.5,
+      "surprise": 1.0,
+      "coherence": 0.7,
+      "generality": 0.7
+    }
+  },
+  "rankings": [
+    {
+      "rank": 1,
+      "expression": "e^(i\u03c0) + 1 = 0",
+      "score": 0.51
+    },
+    {
+      "rank": 2,
+      "expression": "e^(ix) = cos(x) + i\u00b7sin(x)",
+      "score": 0.5
+    },
+    {
+      "rank": 3,
+      "expression": "a\u00b2 + b\u00b2 = c\u00b2",
+      "score": 0.475
+    },
+    {
+      "rank": 4,
+      "expression": "(cos(\u03b8) + i\u00b7sin(\u03b8))^n = cos(n\u03b8) + i\u00b7sin(n\u03b8)",
+      "score": 0.45999999999999996
+    },
+    {
+      "rank": 5,
+      "expression": "lim(F(n+1)/F(n)) = \u03c6",
+      "score": 0.45499999999999996
+    },
+    {
+      "rank": 6,
+      "expression": "\u03c6 = (1 + \u221a5) / 2",
+      "score": 0.43
+    },
+    {
+      "rank": 7,
+      "expression": "\u03b6(2) = \u03c0\u00b2/6",
+      "score": 0.42999999999999994
+    },
+    {
+      "rank": 8,
+      "expression": "\u222b[-\u221e,\u221e] e^(-x\u00b2)dx = \u221a\u03c0",
+      "score": 0.42500000000000004
+    },
+    {
+      "rank": 9,
+      "expression": "|e^(i\u03b8)| = 1",
+      "score": 0.41000000000000003
+    },
+    {
+      "rank": 10,
+      "expression": "\u03c0/4 = 1 - 1/3 + 1/5 - 1/7 + ...",
+      "score": 0.39999999999999997
+    },
+    {
+      "rank": 11,
+      "expression": "1 + 1/4 + 1/9 + 1/16 + ... = \u03c0\u00b2/6",
+      "score": 0.39999999999999997
+    },
+    {
+      "rank": 12,
+      "expression": "1/\u03c0 = (2\u221a2/9801)\u03a3[(4k)!(1103+26390k)/(k!)^4\u00b7396^(4k)]",
+      "score": 0.39999999999999997
+    },
+    {
+      "rank": 13,
+      "expression": "\u03a3(1/n) = \u221e",
+      "score": 0.38499999999999995
+    },
+    {
+      "rank": 14,
+      "expression": "e = 1 + 1/1! + 1/2! + 1/3! + ...",
+      "score": 0.37
+    },
+    {
+      "rank": 15,
+      "expression": "\u222b[a,b] f'(x)dx = f(b) - f(a)",
+      "score": 0.355
+    }
+  ],
+  "insights": [
+    "Beauty is multi-dimensional, not single metric",
+    "Most beautiful equations balance all five dimensions",
+    "Simplicity alone insufficient (trivial equations lack beauty)",
+    "Surprise requires context (unexpected connections)",
+    "Coherence ties disparate elements into unified whole",
+    "Generality makes beauty applicable beyond single case"
+  ]
+}

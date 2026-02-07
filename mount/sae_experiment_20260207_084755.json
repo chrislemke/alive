@@ -1,0 +1,353 @@
+{
+  "timestamp": "2026-02-07T08:47:55.747657",
+  "network": {
+    "architecture": {
+      "input": 4,
+      "hidden": 8,
+      "output": 4
+    },
+    "accuracy": 1.0
+  },
+  "sae": {
+    "architecture": {
+      "input": 8,
+      "hidden": 16
+    },
+    "final_reconstruction_error": 0.004178793364503486,
+    "final_sparsity": 0.2734375
+  },
+  "features": {
+    "active": 8,
+    "dead": 8,
+    "analysis": [
+      {
+        "feature_id": 0,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 1,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 2,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 3,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 4,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 5,
+        "status": "active",
+        "max_activation": 2.775014474060062,
+        "mean_activation": 0.7469212755714625,
+        "selectivity": 1.4139094636443648,
+        "top_patterns": [
+          {
+            "input": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "activation": 2.775014474060062
+          },
+          {
+            "input": [
+              1,
+              1,
+              1,
+              0
+            ],
+            "activation": 2.7186020749628605
+          },
+          {
+            "input": [
+              1,
+              1,
+              0,
+              1
+            ],
+            "activation": 2.3741336588489803
+          }
+        ]
+      },
+      {
+        "feature_id": 6,
+        "status": "active",
+        "max_activation": 1.448473027192891,
+        "mean_activation": 0.48984677122891873,
+        "selectivity": 0.9341870933139176,
+        "top_patterns": [
+          {
+            "input": [
+              1,
+              0,
+              1,
+              0
+            ],
+            "activation": 1.448473027192891
+          },
+          {
+            "input": [
+              1,
+              0,
+              0,
+              0
+            ],
+            "activation": 1.3565446792070441
+          },
+          {
+            "input": [
+              1,
+              0,
+              1,
+              1
+            ],
+            "activation": 0.7574064733613417
+          }
+        ]
+      },
+      {
+        "feature_id": 7,
+        "status": "active",
+        "max_activation": 1.9771593322992405,
+        "mean_activation": 0.8596879222911095,
+        "selectivity": 0.9660469149727744,
+        "top_patterns": [
+          {
+            "input": [
+              1,
+              0,
+              1,
+              1
+            ],
+            "activation": 1.9771593322992405
+          },
+          {
+            "input": [
+              1,
+              0,
+              0,
+              1
+            ],
+            "activation": 1.9654488728166868
+          },
+          {
+            "input": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "activation": 1.715874741828716
+          }
+        ]
+      },
+      {
+        "feature_id": 8,
+        "status": "active",
+        "max_activation": 3.735136205505048,
+        "mean_activation": 1.3854074734810191,
+        "selectivity": 0.8570479568709143,
+        "top_patterns": [
+          {
+            "input": [
+              1,
+              0,
+              1,
+              0
+            ],
+            "activation": 3.735136205505048
+          },
+          {
+            "input": [
+              1,
+              0,
+              1,
+              1
+            ],
+            "activation": 3.5903825602392927
+          },
+          {
+            "input": [
+              1,
+              0,
+              0,
+              0
+            ],
+            "activation": 2.6288851716856296
+          }
+        ]
+      },
+      {
+        "feature_id": 9,
+        "status": "active",
+        "max_activation": 1.9266620435149624,
+        "mean_activation": 0.5998819264979288,
+        "selectivity": 1.1480274934643817,
+        "top_patterns": [
+          {
+            "input": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "activation": 1.9266620435149624
+          },
+          {
+            "input": [
+              0,
+              0,
+              1,
+              1
+            ],
+            "activation": 1.6898886711407346
+          },
+          {
+            "input": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "activation": 1.5778375653505747
+          }
+        ]
+      },
+      {
+        "feature_id": 10,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 11,
+        "status": "active",
+        "max_activation": 2.209827813723436,
+        "mean_activation": 0.8937541769531026,
+        "selectivity": 0.9025754815268352,
+        "top_patterns": [
+          {
+            "input": [
+              0,
+              0,
+              1,
+              1
+            ],
+            "activation": 2.209827813723436
+          },
+          {
+            "input": [
+              0,
+              0,
+              1,
+              0
+            ],
+            "activation": 1.9504498898723455
+          },
+          {
+            "input": [
+              1,
+              1,
+              1,
+              0
+            ],
+            "activation": 1.5663772156262725
+          }
+        ]
+      },
+      {
+        "feature_id": 12,
+        "status": "active",
+        "max_activation": 2.2548082368065683,
+        "mean_activation": 0.5590840744031347,
+        "selectivity": 1.653045878285309,
+        "top_patterns": [
+          {
+            "input": [
+              0,
+              1,
+              1,
+              0
+            ],
+            "activation": 2.2548082368065683
+          },
+          {
+            "input": [
+              0,
+              1,
+              1,
+              1
+            ],
+            "activation": 2.1952139322426385
+          },
+          {
+            "input": [
+              0,
+              1,
+              0,
+              0
+            ],
+            "activation": 2.122272565374648
+          }
+        ]
+      },
+      {
+        "feature_id": 13,
+        "status": "dead",
+        "max_activation": 0.0
+      },
+      {
+        "feature_id": 14,
+        "status": "active",
+        "max_activation": 0.35330127016832447,
+        "mean_activation": 0.04198629157055603,
+        "selectivity": 2.649809756710695,
+        "top_patterns": [
+          {
+            "input": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "activation": 0.35330127016832447
+          },
+          {
+            "input": [
+              0,
+              1,
+              0,
+              1
+            ],
+            "activation": 0.3184793949605719
+          },
+          {
+            "input": [
+              1,
+              1,
+              1,
+              1
+            ],
+            "activation": 0.0
+          }
+        ]
+      },
+      {
+        "feature_id": 15,
+        "status": "dead",
+        "max_activation": 0.0
+      }
+    ]
+  }
+}

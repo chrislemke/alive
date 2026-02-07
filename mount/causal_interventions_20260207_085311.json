@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-02-07T08:53:11.621763",
+  "ablation_experiments": [
+    {
+      "feature_id": 5,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 14,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 12,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 7,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 9,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    }
+  ],
+  "boosting_experiments": [
+    {
+      "feature_id": 5,
+      "boost_factor": 5.0,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 14,
+      "boost_factor": 5.0,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    },
+    {
+      "feature_id": 12,
+      "boost_factor": 5.0,
+      "output_changes": [
+        0.00018489592920081492,
+        8.156550474355967e-05,
+        0.00017597158209843144,
+        0.00021765052273476967
+      ],
+      "most_affected": "NAND",
+      "total_change": 0.0006600835387775757,
+      "outputs_flipped": 0
+    }
+  ]
+}

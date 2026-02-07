@@ -1,0 +1,24 @@
+{
+  "axioms": [
+    "\u2200x.\u2200y.((x + S(y)) = S((x + y)))",
+    "\u2200x.((x * 0) = 0)",
+    "\u2200x.\u2200y.((S(x) = S(y)) \u2192 (x = y))",
+    "\u2200x.((x + 0) = x)",
+    "\u2200x.\u2200y.((x * S(y)) = ((x * y) + x))",
+    "\u2200x.\u00ac(S(x) = 0)"
+  ],
+  "num_theorems": 6,
+  "demonstration": {
+    "godel_sentence": "\u2200x.(x = x)",
+    "godel_number": 2001279351233535434324420303600647423076331170233433663241821468040728375708145560593571383152687032496615688122822808210653598940181367135558222610838707203658210145823392967080777435552394015081872139982002326551464272944598114621746853361698857631772429468859334165414577644824404122607500000000000000000000000000000,
+    "is_provable": false,
+    "explanation": [
+      "The G\u00f6del sentence G says: 'I am not provable'",
+      "If G were provable, the system would be inconsistent (proving a false statement)",
+      "Therefore, if the system is consistent, G is not provable",
+      "But if G is not provable, then what G says is TRUE",
+      "Conclusion: G is TRUE but UNPROVABLE",
+      "This shows truth and provability are not the same"
+    ]
+  }
+}

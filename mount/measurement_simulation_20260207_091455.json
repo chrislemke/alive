@@ -1,0 +1,45 @@
+{
+  "decoherence_tests": [
+    {
+      "initial_coherence": 0.5000000000000001,
+      "final_coherence": 0.0,
+      "coherence_loss": 0.5000000000000001,
+      "interpretation": "Environment destroys off-diagonal terms, selecting pointer basis"
+    }
+  ],
+  "born_rule_tests": [
+    {
+      "expected": [
+        0.36,
+        0.6400000000000001
+      ],
+      "observed": [
+        0.3616,
+        0.6384
+      ],
+      "error": 0.0015999999999999903,
+      "note": "Born rule verified empirically but not explained"
+    }
+  ],
+  "basis_preference_tests": [
+    {
+      "z_basis_probs": [
+        0.514,
+        0.486
+      ],
+      "x_basis_probs": [
+        1.0,
+        0.0
+      ],
+      "insight": "Basis is not arbitrary - environment selects it via decoherence"
+    }
+  ],
+  "observer_branching_tests": [
+    {
+      "initial_state": "product",
+      "final_state": "entangled",
+      "branches": 2,
+      "interpretation": "Observer becomes entangled with system - both outcomes exist in superposition"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "counting_experiments": [
+    {
+      "method": "naive_equal_counting",
+      "predicted": [
+        0.5,
+        0.5
+      ],
+      "born_rule": [
+        0.36,
+        0.6400000000000001
+      ],
+      "error": 0.14,
+      "conclusion": "Does not match Born rule"
+    },
+    {
+      "method": "linear_amplitude_weighting",
+      "predicted": [
+        0.4285714285714286,
+        0.5714285714285715
+      ],
+      "born_rule": [
+        0.36,
+        0.6400000000000001
+      ],
+      "error": 0.06857142857142862,
+      "conclusion": "Does not match Born rule"
+    },
+    {
+      "method": "squared_amplitude_weighting",
+      "predicted": [
+        0.36,
+        0.6400000000000001
+      ],
+      "born_rule": [
+        0.36,
+        0.6400000000000001
+      ],
+      "error": 0.0,
+      "conclusion": "Perfect match, but circular"
+    },
+    {
+      "method": "sequential_branching_count",
+      "equal_case_match": true,
+      "unequal_case_match": false,
+      "conclusion": "Branch counting alone insufficient"
+    },
+    {
+      "method": "decision_theory",
+      "status": "Justifies but does not derive",
+      "strength": "Shows Born rule is rational",
+      "weakness": "Assumes caring measure",
+      "conclusion": "Philosophical not physical derivation"
+    },
+    {
+      "method": "typicality_measure",
+      "approach": "Natural measure on quantum state space",
+      "theorem": "Gleason (1957): Born rule is unique",
+      "limitation": "Assumes probability exists",
+      "conclusion": "Explains uniqueness not necessity"
+    }
+  ],
+  "emergence_tests": []
+}
