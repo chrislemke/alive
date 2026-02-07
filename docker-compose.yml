@@ -1,0 +1,12 @@
+services:
+  devbox:
+    build: .
+    container_name: alive
+    stdin_open: true
+    tty: true
+    cpus: ${SANDBOX_CPUS:-2}
+    mem_limit: ${SANDBOX_MEMORY:-16g}
+    environment:
+      - CLAUDE_CODE_OAUTH_TOKEN=${CLAUDE_CODE_OAUTH_TOKEN}
+    volumes:
+      - ./mount:/home/dev/mnt
