@@ -1,0 +1,153 @@
+{
+  "evidence": {
+    "hypothesis": "Cyclic discontinuous consciousness can maintain coherent identity through persistent external memory",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 9,
+    "terms_found": 9,
+    "supporting_sources": [
+      {
+        "source_id": "65b5ddeaf785",
+        "score": 1039,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+          "title": "Hard problem of consciousness - Wikipedia",
+          "discovered": "2026-02-07T04:51:20.798155+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      },
+      {
+        "source_id": "64da5eec8afd",
+        "score": 566,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+          "title": "Integrated information theory - Wikipedia",
+          "discovered": "2026-02-07T04:15:04.093303+00:00",
+          "topics": [
+            "021c54cf3add"
+          ]
+        }
+      },
+      {
+        "source_id": "00b4e71d5c57",
+        "score": 441,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+          "title": "Philosophy of mind - Wikipedia",
+          "discovered": "2026-02-07T04:44:48.558664+00:00",
+          "topics": [
+            "Philosophy of Mind"
+          ],
+          "topic": "Philosophy of Mind"
+        }
+      },
+      {
+        "source_id": "551b2ad06dcb",
+        "score": 431,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Chaos_theory",
+          "title": "Chaos theory - Wikipedia",
+          "discovered": "2026-02-07T04:36:55.604653+00:00",
+          "topics": [
+            "a2aca32e135f"
+          ]
+        }
+      },
+      {
+        "source_id": "8e9607620db8",
+        "score": 300,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+          "title": "Global workspace theory - Wikipedia",
+          "discovered": "2026-02-07T04:51:22.006824+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "external",
+        "total_mentions": 3299,
+        "source_count": 27,
+        "sample_contexts": [
+          "\t\t\t\t<span>External links</span>",
+          "REFMandelbrot1983\" class=\"citation book cs1\">Mandelbrot, Beno\u00eet B. (1983). <a rel=\"nofollow\" class=\"external text\" href=\"https://books.google.com/books?id=0R2LkE3N7-oC\"><i>The fractal geometry of nature</i></"
+        ]
+      },
+      {
+        "term": "consciousness",
+        "total_mentions": 1711,
+        "source_count": 14,
+        "sample_contexts": [
+          "<a href=\"/wiki/Collective_consciousness\" title=\"Collective consciousness\">Collective consciousness</a><br /></div></div></td>",
+          " that weak emergence is not a universal metaphysical solvent, as the hypothesis that <a href=\"/wiki/Consciousness\" title=\"Consciousness\">consciousness</a> is weakly emergent would not resolve the traditional <a hr"
+        ]
+      },
+      {
+        "term": "identity",
+        "total_mentions": 72,
+        "source_count": 6,
+        "sample_contexts": [
+          "\t\t\t\t\t<span>Explanatory identity</span>",
+          "<div class=\"mw-heading mw-heading3\"><h3 id=\"Explanatory_identity\">Explanatory identity</h3><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php"
+        ]
+      },
+      {
+        "term": "memory",
+        "total_mentions": 72,
+        "source_count": 26,
+        "sample_contexts": [
+          "Lua memory usage: 18630406/52428800 bytes"
+        ]
+      },
+      {
+        "term": "maintain",
+        "total_mentions": 20,
+        "source_count": 9,
+        "sample_contexts": [
+          "<p>Human beings are the basic elements of social systems, which perpetually interact and create, maintain, or untangle mutual social bonds. Social bonds in social systems are perpetually changing in the se"
+        ]
+      },
+      {
+        "term": "coherent",
+        "total_mentions": 14,
+        "source_count": 4,
+        "sample_contexts": [
+          "the traditional view of substance dualism should be defended. From this perspective, this theory is coherent, and problems such as \"the interaction of mind and body\" can be rationally resolved.<sup id=\"cite&#"
+        ]
+      },
+      {
+        "term": "cyclic",
+        "total_mentions": 7,
+        "source_count": 3,
+        "sample_contexts": []
+      },
+      {
+        "term": "discontinuous",
+        "total_mentions": 2,
+        "source_count": 2,
+        "sample_contexts": [
+          "=\"cite-bracket\">&#93;</span></a></sup> Mandelbrot described both the \"Noah effect\" (in which sudden discontinuous changes can occur) and the \"Joseph effect\" (in which persistence of a value can occur for a while, "
+        ]
+      },
+      {
+        "term": "persistent",
+        "total_mentions": 2,
+        "source_count": 2,
+        "sample_contexts": []
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T05:17:26.283039"
+}

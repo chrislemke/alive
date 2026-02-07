@@ -1,0 +1,505 @@
+{
+  "timestamp": "2026-02-07T04:54:44.375566",
+  "existing_urls": 30,
+  "discovered_urls": 5342,
+  "suggestions": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "score": 97,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 19
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "score": 72,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Recursive self-improvement - Wikipedia"
+      ],
+      "mention_count": 12
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Complexity",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dynamical_system",
+      "score": 52,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Entropy (information theory) - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bifurcation_theory",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Recursive self-improvement - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Physics",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Systems_theory",
+      "score": 47,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Fractal - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_chaos",
+      "score": 47,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
+      "score": 42,
+      "mentioned_in": [
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "score": 42,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Damasio%27s_theory_of_consciousness",
+      "score": 42,
+      "mentioned_in": [
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Information_system",
+      "score": 42,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Graph theory - Wikipedia",
+        "Humberto Maturana - Wikipedia"
+      ],
+      "mention_count": 4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_consciousness",
+      "score": 42,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Recursive self-improvement - Wikipedia",
+        "Integrated information theory - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence",
+      "score": 42,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Recursive self-improvement - Wikipedia",
+        "Philosophy of mind - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coupled_map_lattice",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Biology",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cognitive_science",
+      "score": 42,
+      "mentioned_in": [
+        "Intelligence amplification - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nonlinear_system",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Complex_system",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Butterfly effect - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Population_dynamics",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Free_will",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Conway's Game of Life - Wikipedia",
+        "Integrated information theory - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edge_of_chaos",
+      "score": 42,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Langton%27s_ant",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Control_theory",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Graph theory - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Synchronization_of_chaos",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Control_of_chaos",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/System",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Systems_science",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Graph theory - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catastrophe_theory",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ergodic_theory",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/H%C3%A9non%E2%80%93Heiles_system",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Measure-preserving_dynamical_system",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_epistemology",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Humberto Maturana - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe_Institute",
+      "score": 37,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stability_theory",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edward_Norton_Lorenz",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cybernetics",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Intelligence amplification - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "score": 37,
+      "mentioned_in": [
+        "Self-organization - Wikipedia",
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phase_space",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty",
+      "score": 37,
+      "mentioned_in": [
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Computational_theory_of_mind",
+      "score": 37,
+      "mentioned_in": [
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Exponential_map_(discrete_dynamical_systems)",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory",
+      "score": 37,
+      "mentioned_in": [
+        "Entropy (information theory) - Wikipedia"
+      ],
+      "mention_count": 1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conservative_system",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Entropy",
+      "score": 37,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Entropy (information theory) - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phenomenology_(philosophy)",
+      "score": 37,
+      "mentioned_in": [
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mathematics",
+      "score": 37,
+      "mentioned_in": [
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia"
+      ],
+      "mention_count": 7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Animal_consciousness",
+      "score": 37,
+      "mentioned_in": [
+        "Swarm intelligence - Wikipedia",
+        "Integrated information theory - Wikipedia",
+        "Philosophy of mind - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Cartwright",
+      "score": 37,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 7
+    }
+  ]
+}

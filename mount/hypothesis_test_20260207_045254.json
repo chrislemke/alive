@@ -1,0 +1,134 @@
+{
+  "evidence": {
+    "hypothesis": "Chaos theory principles apply to biological systems",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 6,
+    "terms_found": 6,
+    "supporting_sources": [
+      {
+        "source_id": "551b2ad06dcb",
+        "score": 1419,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Chaos_theory",
+          "title": "Chaos theory - Wikipedia",
+          "discovered": "2026-02-07T04:36:55.604653+00:00",
+          "topics": [
+            "a2aca32e135f"
+          ]
+        }
+      },
+      {
+        "source_id": "66494bef3c8b",
+        "score": 381,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Graph_theory",
+          "title": "Graph theory - Wikipedia",
+          "discovered": "2026-02-07T04:45:40.971534+00:00",
+          "topics": [
+            "Graph Theory"
+          ],
+          "topic": "Graph Theory"
+        }
+      },
+      {
+        "source_id": "64da5eec8afd",
+        "score": 279,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+          "title": "Integrated information theory - Wikipedia",
+          "discovered": "2026-02-07T04:15:04.093303+00:00",
+          "topics": [
+            "021c54cf3add"
+          ]
+        }
+      },
+      {
+        "source_id": "afa8b90caae0",
+        "score": 268,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+          "title": "Entropy (information theory) - Wikipedia",
+          "discovered": "2026-02-07T04:16:33.208777+00:00",
+          "topics": [
+            "c067cfefd137"
+          ]
+        }
+      },
+      {
+        "source_id": "40ea382947b2",
+        "score": 247,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Self-organization",
+          "title": "Self-organization - Wikipedia",
+          "discovered": "2026-02-07T04:03:00.573209+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "theory",
+        "total_mentions": 2432,
+        "source_count": 25,
+        "sample_contexts": [
+          "tes to the mathematical branch of <a href=\"/wiki/Measure_theory\" class=\"mw-redirect\" title=\"Measure theory\">measure theory</a> by their <a href=\"/wiki/Hausdorff_dimension\" title=\"Hausdorff dimension\">Hausdo",
+          "sup> Fractals are of particular relevance in the field of <a href=\"/wiki/Chaos_theory\" title=\"Chaos theory\">chaos theory</a> because they show up in the geometric depictions of most chaotic processes (typic"
+        ]
+      },
+      {
+        "term": "chaos",
+        "total_mentions": 1174,
+        "source_count": 9,
+        "sample_contexts": [
+          "rect\" title=\"Topological dimension\">topological dimension</a>).<sup id=\"cite&#95;ref-Mandelbrot&#95;Chaos&#95;6-0\" class=\"reference\"><a href=\"#cite_note-Mandelbrot_Chaos-6\"><span class=\"cite-bracket\">&#91;",
+          ">&#91;</span>1<span class=\"cite-bracket\">&#93;</span></a></sup><sup id=\"cite&#95;ref-Mandelbrot&#95;Chaos&#95;6-1\" class=\"reference\"><a href=\"#cite_note-Mandelbrot_Chaos-6\"><span class=\"cite-bracket\">&#91;"
+        ]
+      },
+      {
+        "term": "systems",
+        "total_mentions": 922,
+        "source_count": 24,
+        "sample_contexts": [
+          "es recursive <a href=\"/wiki/Iterated_function_systems\" class=\"mw-redirect\" title=\"Iterated function systems\">IFS</a></figcaption></figure>",
+          "ng pattern modeled <a href=\"/wiki/In_silico\" title=\"In silico\">in silico</a> using <a href=\"/wiki/L-systems\" class=\"mw-redirect\" title=\"L-systems\">L-systems</a> principles<sup id=\"cite&#95;ref-branching&#95;"
+        ]
+      },
+      {
+        "term": "biological",
+        "total_mentions": 157,
+        "source_count": 18,
+        "sample_contexts": [
+          "stem\">L-systems</a></i> \u2013 use string rewriting; may resemble branching patterns, such as in plants, biological cells (e.g., neurons and immune system cells<sup id=\"cite&#95;ref-branching&#95;18-2\" class=\"refere",
+          "://books.google.com/books?id=qZHyqUli9y8C&amp;q=crystal+fractals+book&amp;pg=PA78\">\"Crystal growth, biological cell growth and geometry\"</a>. In Carbone, Alessandra; Gromov, Mikhael; Prusinkiewicz, Przemyslaw ("
+        ]
+      },
+      {
+        "term": "principles",
+        "total_mentions": 51,
+        "source_count": 13,
+        "sample_contexts": [
+          "\">in silico</a> using <a href=\"/wiki/L-systems\" class=\"mw-redirect\" title=\"L-systems\">L-systems</a> principles<sup id=\"cite&#95;ref-branching&#95;18-1\" class=\"reference\"><a href=\"#cite_note-branching-18\"><span "
+        ]
+      },
+      {
+        "term": "apply",
+        "total_mentions": 47,
+        "source_count": 26,
+        "sample_contexts": [
+          "additional terms may apply. By using this site, you agree to the <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLang"
+        ]
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T04:52:54.146794"
+}

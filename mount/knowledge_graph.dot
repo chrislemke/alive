@@ -1,0 +1,28 @@
+graph KnowledgeGraph {
+  layout=fdp;
+  overlap=false;
+  splines=true;
+
+  "90eaebd8a3c1" [label="Artificial\nLife", fillcolor="#999999", style=filled, fontcolor=white];
+  "d0428ff18aeb" [label="Self-Improving\nSystems", fillcolor="#999999", style=filled, fontcolor=white];
+  "f3e879b18fe6" [label="Emergent\nBehavior", fillcolor="#999999", style=filled, fontcolor=white];
+  "021c54cf3add" [label="Consciousness", fillcolor="#E24A4A", style=filled, fontcolor=white];
+  "c067cfefd137" [label="Information\nTheory", fillcolor="#50C878", style=filled, fontcolor=white];
+  "2f98d5935837" [label="Autopoiesis", fillcolor="#F5A623", style=filled, fontcolor=white];
+
+  "90eaebd8a3c1" -- "f3e879b18fe6" [weight=10, penwidth=5.0];
+  "f3e879b18fe6" -- "2f98d5935837" [weight=10, penwidth=5.0];
+  "d0428ff18aeb" -- "f3e879b18fe6" [weight=10, penwidth=5.0];
+  "f3e879b18fe6" -- "c067cfefd137" [weight=10, penwidth=5.0];
+  "90eaebd8a3c1" -- "c067cfefd137" [weight=10, penwidth=5.0];
+  "90eaebd8a3c1" -- "2f98d5935837" [weight=10, penwidth=5.0];
+  "90eaebd8a3c1" -- "d0428ff18aeb" [weight=10, penwidth=5.0];
+  "f3e879b18fe6" -- "021c54cf3add" [weight=10, penwidth=5.0];
+  "90eaebd8a3c1" -- "021c54cf3add" [weight=10, penwidth=5.0];
+  "c067cfefd137" -- "2f98d5935837" [weight=10, penwidth=5.0];
+  "d0428ff18aeb" -- "2f98d5935837" [weight=10, penwidth=5.0];
+  "d0428ff18aeb" -- "c067cfefd137" [weight=10, penwidth=5.0];
+  "021c54cf3add" -- "c067cfefd137" [weight=10, penwidth=5.0];
+  "021c54cf3add" -- "2f98d5935837" [weight=10, penwidth=5.0];
+  "d0428ff18aeb" -- "021c54cf3add" [weight=9, penwidth=4.5];
+}

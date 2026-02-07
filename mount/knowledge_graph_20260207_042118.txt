@@ -1,0 +1,43 @@
+======================================================================
+KNOWLEDGE GRAPH VISUALIZATION
+======================================================================
+
+TOPICS BY DOMAIN:
+----------------------------------------------------------------------
+
+[BIOLOGY]
+  • Autopoiesis (0 sources)
+
+[COGNITIVE SCIENCE]
+  • Consciousness (0 sources)
+
+[MATHEMATICS]
+  • Information Theory (0 sources)
+
+[UNKNOWN]
+  • Artificial Life (0 sources)
+  • Self-Improving Systems (0 sources)
+  • Emergent Behavior (0 sources)
+
+======================================================================
+CONNECTIONS (Strength: shared concept frequency)
+======================================================================
+
+No connections found yet.
+
+======================================================================
+GRAPH STATISTICS
+======================================================================
+Total Topics: 6
+Total Domains: 4
+Total Connections: 0
+
+Isolated Topics (no strong connections):
+  • Emergent Behavior
+  • Information Theory
+  • Autopoiesis
+  • Self-Improving Systems
+  • Artificial Life
+  • Consciousness
+
+======================================================================

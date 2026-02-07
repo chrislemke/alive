@@ -1,0 +1,132 @@
+{
+  "evidence": {
+    "hypothesis": "Meta-cognitive reflection is evidence of genuine consciousness",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 6,
+    "terms_found": 6,
+    "supporting_sources": [
+      {
+        "source_id": "65b5ddeaf785",
+        "score": 927,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+          "title": "Hard problem of consciousness - Wikipedia",
+          "discovered": "2026-02-07T04:51:20.798155+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      },
+      {
+        "source_id": "00b4e71d5c57",
+        "score": 349,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+          "title": "Philosophy of mind - Wikipedia",
+          "discovered": "2026-02-07T04:44:48.558664+00:00",
+          "topics": [
+            "Philosophy of Mind"
+          ],
+          "topic": "Philosophy of Mind"
+        }
+      },
+      {
+        "source_id": "64da5eec8afd",
+        "score": 311,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+          "title": "Integrated information theory - Wikipedia",
+          "discovered": "2026-02-07T04:15:04.093303+00:00",
+          "topics": [
+            "021c54cf3add"
+          ]
+        }
+      },
+      {
+        "source_id": "8e9607620db8",
+        "score": 272,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+          "title": "Global workspace theory - Wikipedia",
+          "discovered": "2026-02-07T04:51:22.006824+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      },
+      {
+        "source_id": "b2165b08fb7d",
+        "score": 125,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Higher-order_theories_of_consciousness",
+          "title": "Higher-order theories of consciousness - Wikipedia",
+          "discovered": "2026-02-07T04:51:23.480886+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "consciousness",
+        "total_mentions": 1711,
+        "source_count": 14,
+        "sample_contexts": [
+          "<a href=\"/wiki/Collective_consciousness\" title=\"Collective consciousness\">Collective consciousness</a><br /></div></div></td>",
+          " that weak emergence is not a universal metaphysical solvent, as the hypothesis that <a href=\"/wiki/Consciousness\" title=\"Consciousness\">consciousness</a> is weakly emergent would not resolve the traditional <a hr"
+        ]
+      },
+      {
+        "term": "meta",
+        "total_mentions": 687,
+        "source_count": 27,
+        "sample_contexts": [
+          "<meta charset=\"UTF-8\">",
+          "<meta name=\"ResourceLoaderDynamicStyles\" content=\"\">"
+        ]
+      },
+      {
+        "term": "cognitive",
+        "total_mentions": 269,
+        "source_count": 15,
+        "sample_contexts": [
+          "an>100<span class=\"cite-bracket\">&#93;</span></a></sup> These include stress-reduction and enhanced cognitive capacity. Designers and architects incorporate biophilic fractals into the built environment to cou",
+          "atterns with fractal dimensions in this range, these fractals reduce physiological stress and boost cognitive abilities.<sup id=\"cite&#95;ref-Taylor&#95;2006&#95;106-0\" class=\"reference\"><a href=\"#cite_note-Ta"
+        ]
+      },
+      {
+        "term": "evidence",
+        "total_mentions": 41,
+        "source_count": 12,
+        "sample_contexts": [
+          "cchi, Paola</a>; Leoni, Lorenzo (2007). \"Structural characterization of the Costa Rica d\u00e9collement: Evidence for seismically-induced fluid pulsing\". <i>Earth and Planetary Science Letters</i>. <b>262</b> (<sp",
+          "ry+Science+Letters&amp;rft.atitle=Structural+characterization+of+the+Costa+Rica+d%C3%A9collement%3A+Evidence+for+seismically-induced+fluid+pulsing&amp;rft.volume=262&amp;rft.issue=%3Cspan+class%3D%22nowrap%22"
+        ]
+      },
+      {
+        "term": "reflection",
+        "total_mentions": 26,
+        "source_count": 8,
+        "sample_contexts": [
+          "ife-like rules and the same eight-cell neighbourhood, and are likewise invariant under rotation and reflection. However, in isotropic rules, the positions of neighbour cells relative to each other may be taken "
+        ]
+      },
+      {
+        "term": "genuine",
+        "total_mentions": 6,
+        "source_count": 4,
+        "sample_contexts": []
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T05:18:39.518678"
+}

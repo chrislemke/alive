@@ -1,0 +1,93 @@
+======================================================================
+KNOWLEDGE GRAPH VISUALIZATION
+======================================================================
+
+TOPICS BY DOMAIN:
+----------------------------------------------------------------------
+
+[BIOLOGY]
+  • Autopoiesis (1 sources)
+
+[COGNITIVE SCIENCE]
+  • Consciousness (1 sources)
+
+[MATHEMATICS]
+  • Information Theory (1 sources)
+
+[UNKNOWN]
+  • Artificial Life (3 sources)
+  • Self-Improving Systems (3 sources)
+  • Emergent Behavior (3 sources)
+
+======================================================================
+CONNECTIONS (Strength: shared concept frequency)
+======================================================================
+
+1. Artificial Life ↔ Emergent Behavior
+   Strength: 4,640 | Concepts: 1244
+   ████████████████████████████████████████
+   Top shared: ability, able, about
+
+2. Emergent Behavior ↔ Autopoiesis
+   Strength: 3,367 | Concepts: 1624
+   ████████████████████████████████████████
+   Top shared: aaron, able, ableiten
+
+3. Self-Improving Systems ↔ Emergent Behavior
+   Strength: 2,197 | Concepts: 717
+   ████████████████████████████████████████
+   Top shared: abilities, ability, able
+
+4. Emergent Behavior ↔ Information Theory
+   Strength: 2,164 | Concepts: 804
+   ████████████████████████████████████████
+   Top shared: able, about, above
+
+5. Artificial Life ↔ Information Theory
+   Strength: 2,115 | Concepts: 789
+   ████████████████████████████████████████
+   Top shared: able, about, above
+
+6. Artificial Life ↔ Autopoiesis
+   Strength: 1,990 | Concepts: 800
+   ███████████████████████████████████████
+   Top shared: able, about, above
+
+7. Artificial Life ↔ Self-Improving Systems
+   Strength: 1,941 | Concepts: 640
+   ██████████████████████████████████████
+   Top shared: ability, able, about
+
+8. Emergent Behavior ↔ Consciousness
+   Strength: 1,640 | Concepts: 648
+   ████████████████████████████████
+   Top shared: aaron, ability, able
+
+9. Artificial Life ↔ Consciousness
+   Strength: 1,492 | Concepts: 602
+   █████████████████████████████
+   Top shared: ability, able, about
+
+10. Information Theory ↔ Autopoiesis
+   Strength: 1,297 | Concepts: 538
+   █████████████████████████
+   Top shared: able, about, above
+
+======================================================================
+GRAPH STATISTICS
+======================================================================
+Total Topics: 6
+Total Domains: 4
+Total Connections: 15
+Average Connection Strength: 1888.9
+Strongest Connection: 4,640
+Weakest Connection: 904
+
+Most Connected Topics:
+  • Artificial Life: 5 connections
+  • Emergent Behavior: 5 connections
+  • Autopoiesis: 5 connections
+  • Self-Improving Systems: 5 connections
+  • Information Theory: 5 connections
+
+======================================================================

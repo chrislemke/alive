@@ -1,0 +1,94 @@
+{
+  "goals": [],
+  "completed": [
+    {
+      "id": "goal_003",
+      "description": "Explore 6 different domains",
+      "metric": "domain_count",
+      "target": 6,
+      "current": 7.0,
+      "priority": "high",
+      "status": "completed",
+      "created": "2026-02-07T04:29:52.995425",
+      "completed": "2026-02-07T04:45:22.595347",
+      "progress_history": [
+        {
+          "timestamp": "2026-02-07T04:29:52.995429",
+          "value": 3
+        },
+        {
+          "timestamp": "2026-02-07T04:38:28.155126",
+          "value": 4.0
+        },
+        {
+          "timestamp": "2026-02-07T04:45:22.595332",
+          "value": 7.0
+        }
+      ]
+    },
+    {
+      "id": "goal_001",
+      "description": "Expand to 10 knowledge topics",
+      "metric": "topic_count",
+      "target": 10,
+      "current": 10.0,
+      "priority": "medium",
+      "status": "completed",
+      "created": "2026-02-07T04:29:52.994089",
+      "completed": "2026-02-07T04:45:48.739503",
+      "progress_history": [
+        {
+          "timestamp": "2026-02-07T04:29:52.994091",
+          "value": 6
+        },
+        {
+          "timestamp": "2026-02-07T04:38:28.115003",
+          "value": 7.0
+        },
+        {
+          "timestamp": "2026-02-07T04:45:22.546253",
+          "value": 9.0
+        },
+        {
+          "timestamp": "2026-02-07T04:45:48.739489",
+          "value": 10.0
+        }
+      ]
+    },
+    {
+      "id": "goal_002",
+      "description": "Accumulate 30 diverse sources",
+      "metric": "source_count",
+      "target": 30,
+      "current": 30.0,
+      "priority": "medium",
+      "status": "completed",
+      "created": "2026-02-07T04:29:52.994745",
+      "completed": "2026-02-07T04:51:46.975489",
+      "progress_history": [
+        {
+          "timestamp": "2026-02-07T04:29:52.994748",
+          "value": 14
+        },
+        {
+          "timestamp": "2026-02-07T04:38:28.135583",
+          "value": 17.0
+        },
+        {
+          "timestamp": "2026-02-07T04:45:22.569538",
+          "value": 20.0
+        },
+        {
+          "timestamp": "2026-02-07T04:45:48.761639",
+          "value": 21.0
+        },
+        {
+          "timestamp": "2026-02-07T04:51:46.975475",
+          "value": 30.0
+        }
+      ]
+    }
+  ],
+  "created": "2026-02-07T04:29:52.993632",
+  "last_updated": "2026-02-07T04:51:46.975492"
+}

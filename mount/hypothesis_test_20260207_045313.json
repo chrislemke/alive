@@ -1,0 +1,115 @@
+{
+  "evidence": {
+    "hypothesis": "Autopoiesis is a form of emergent behavior",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 4,
+    "terms_found": 4,
+    "supporting_sources": [
+      {
+        "source_id": "afa8b90caae0",
+        "score": 518,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+          "title": "Entropy (information theory) - Wikipedia",
+          "discovered": "2026-02-07T04:16:33.208777+00:00",
+          "topics": [
+            "c067cfefd137"
+          ]
+        }
+      },
+      {
+        "source_id": "64da5eec8afd",
+        "score": 316,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+          "title": "Integrated information theory - Wikipedia",
+          "discovered": "2026-02-07T04:15:04.093303+00:00",
+          "topics": [
+            "021c54cf3add"
+          ]
+        }
+      },
+      {
+        "source_id": "30dae6119dd0",
+        "score": 232,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Emergence",
+          "title": "Emergence - Wikipedia",
+          "discovered": "2026-02-07T03:50:42.058455+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "00b4e71d5c57",
+        "score": 199,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+          "title": "Philosophy of mind - Wikipedia",
+          "discovered": "2026-02-07T04:44:48.558664+00:00",
+          "topics": [
+            "Philosophy of Mind"
+          ],
+          "topic": "Philosophy of Mind"
+        }
+      },
+      {
+        "source_id": "65b5ddeaf785",
+        "score": 150,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+          "title": "Hard problem of consciousness - Wikipedia",
+          "discovered": "2026-02-07T04:51:20.798155+00:00",
+          "topics": [
+            "Consciousness"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "form",
+        "total_mentions": 2381,
+        "source_count": 27,
+        "sample_contexts": [
+          "\t\t\t<form action=\"/w/index.php\" id=\"searchform\" class=\"cdx-search-input cdx-search-input--has-end-button\">",
+          "\t\t\t</form>"
+        ]
+      },
+      {
+        "term": "behavior",
+        "total_mentions": 266,
+        "source_count": 20,
+        "sample_contexts": [
+          "cation_theory\" title=\"Bifurcation theory\">Bifurcation theory</a>&#160;\u2013 Study of sudden qualitative behavior changes caused by small parameter changes</li>"
+        ]
+      },
+      {
+        "term": "emergent",
+        "total_mentions": 219,
+        "source_count": 13,
+        "sample_contexts": [
+          " this structure is fractals may have <a href=\"/wiki/Emergent_properties\" class=\"mw-redirect\" title=\"Emergent properties\">emergent properties</a><sup id=\"cite&#95;ref-42\" class=\"reference\"><a href=\"#cite_note-"
+        ]
+      },
+      {
+        "term": "autopoiesis",
+        "total_mentions": 56,
+        "source_count": 5,
+        "sample_contexts": [
+          "etics\">cybernetics</a></div><div class=\"sidebar-list-content mw-collapsible-content\"><a href=\"/wiki/Autopoiesis\" title=\"Autopoiesis\">Autopoiesis</a><br />"
+        ]
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T04:53:13.060716"
+}

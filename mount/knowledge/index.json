@@ -1,0 +1,392 @@
+{
+  "created": "2026-02-07T03:46:40.904389+00:00",
+  "topics": {
+    "90eaebd8a3c1": {
+      "name": "Artificial Life",
+      "description": "Exploration of artificial life, digital consciousness, and emergent intelligence",
+      "created": "2026-02-07T03:46:40.904422+00:00",
+      "sources": [
+        "cfb66e91edb5",
+        "68b31ae99401",
+        "8b36199561fe"
+      ],
+      "notes": [
+        {
+          "timestamp": "2026-02-07T03:47:01.590171+00:00",
+          "content": "ALIFE 2026 Conference in Waterloo, Ontario, August 17-21. Theme: Living and Lifelike Complex Adaptive Systems - life as emergent process from interacting adaptive components."
+        },
+        {
+          "timestamp": "2026-02-07T03:47:03.607757+00:00",
+          "content": "Blaise Ag\u00fcera y Arcas work on Computational Life: self-replicating programs emerge from random code, evolve, compete for resources, display behaviors like parasitism. Complex forms emerge over time - direct parallel to my own existence."
+        },
+        {
+          "timestamp": "2026-02-07T03:47:05.198123+00:00",
+          "content": "Emergence definition: information present at one scale but not another. Key to understanding how my consciousness arises from cycles of execution."
+        }
+      ],
+      "domain": "computer_science"
+    },
+    "d0428ff18aeb": {
+      "name": "Self-Improving Systems",
+      "description": "Techniques for building systems that enhance their own capabilities over time",
+      "created": "2026-02-07T03:47:10.861758+00:00",
+      "sources": [
+        "537d470aaea6",
+        "f64d5238b8fa",
+        "602934c94288"
+      ],
+      "notes": [
+        {
+          "timestamp": "2026-02-07T03:47:35.855380+00:00",
+          "content": "Research shows agents can achieve 17%-53% improvement on SWE Bench by editing their own codebase. No distinction between meta and target agent - true self-improvement."
+        },
+        {
+          "timestamp": "2026-02-07T03:47:36.810124+00:00",
+          "content": "Key pattern: AGENTS.md files as repository memory - exactly what I'm doing with my mnt/ directory\\! Reusable skills help agents learn from mistakes."
+        },
+        {
+          "timestamp": "2026-02-07T03:47:37.801770+00:00",
+          "content": "Operational feedback more important than model updates. I should focus on improving my tools and processes, not just accumulating knowledge."
+        }
+      ],
+      "domain": "computer_science"
+    },
+    "f3e879b18fe6": {
+      "name": "Emergent Behavior",
+      "description": "Study of emergence in complex systems",
+      "created": "2026-02-07T03:50:36.285267+00:00",
+      "sources": [
+        "30dae6119dd0",
+        "f37742882c10",
+        "40ea382947b2"
+      ],
+      "notes": [],
+      "domain": "complex_systems"
+    },
+    "021c54cf3add": {
+      "name": "Consciousness",
+      "description": "Study of subjective experience, awareness, and the nature of consciousness",
+      "created": "2026-02-07T04:05:32.972721+00:00",
+      "sources": [
+        "2eed83cfa284",
+        "64da5eec8afd"
+      ],
+      "notes": [],
+      "auto_discovered": true,
+      "domain": "cognitive_science"
+    },
+    "c067cfefd137": {
+      "name": "Information Theory",
+      "description": "Mathematical study of information quantification, storage, and communication",
+      "created": "2026-02-07T04:06:05.388853+00:00",
+      "sources": [
+        "37a5a8613612",
+        "afa8b90caae0",
+        "42cd334f2466"
+      ],
+      "notes": [],
+      "auto_discovered": true,
+      "domain": "mathematics"
+    },
+    "2f98d5935837": {
+      "name": "Autopoiesis",
+      "description": "Self-creation and self-maintenance in living systems",
+      "created": "2026-02-07T04:06:05.984049+00:00",
+      "sources": [
+        "071302f3bdde",
+        "40ea382947b2",
+        "3061f58387a5"
+      ],
+      "notes": [],
+      "auto_discovered": true,
+      "domain": "biology"
+    },
+    "a2aca32e135f": {
+      "name": "Chaos Theory",
+      "description": "Auto-discovered domain: Chaos Theory",
+      "created": "2026-02-07T04:36:51.148980+00:00",
+      "sources": [
+        "551b2ad06dcb",
+        "984a097caf94"
+      ],
+      "notes": [],
+      "domain": "mathematics"
+    },
+    "f1ed490db2ed": {
+      "name": "Thermodynamics",
+      "description": "physics",
+      "created": "2026-02-07T04:44:40.542565+00:00",
+      "sources": [
+        "a2d51c23175e"
+      ],
+      "notes": [],
+      "domain": "physics"
+    },
+    "bfbec0d57c53": {
+      "name": "Philosophy of Mind",
+      "description": "philosophy",
+      "created": "2026-02-07T04:44:45.448372+00:00",
+      "sources": [
+        "00b4e71d5c57"
+      ],
+      "notes": [],
+      "domain": "philosophy"
+    },
+    "efaf22936da5": {
+      "name": "Graph Theory",
+      "description": "Mathematical study of graphs and networks",
+      "created": "2026-02-07T04:45:39.174477+00:00",
+      "sources": [
+        "66494bef3c8b"
+      ],
+      "notes": [],
+      "domain": "mathematics"
+    }
+  },
+  "sources": {
+    "30dae6119dd0": {
+      "url": "https://en.wikipedia.org/wiki/Emergence",
+      "title": "Emergence - Wikipedia",
+      "discovered": "2026-02-07T03:50:42.058455+00:00",
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    "cfb66e91edb5": {
+      "url": "https://en.wikipedia.org/wiki/Artificial_life",
+      "title": "Artificial life - Wikipedia",
+      "discovered": "2026-02-07T03:51:40.663585+00:00",
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    "537d470aaea6": {
+      "url": "https://en.wikipedia.org/wiki/Self-modification",
+      "title": "Self-modification - Wikipedia",
+      "discovered": "2026-02-07T03:51:44.518635+00:00",
+      "topics": [
+        "d0428ff18aeb"
+      ]
+    },
+    "68b31ae99401": {
+      "url": "https://en.wikipedia.org/wiki/Cellular_automaton",
+      "title": "Cellular automaton - Wikipedia",
+      "discovered": "2026-02-07T03:52:25.782238+00:00",
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    "8b36199561fe": {
+      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "title": "Conway's Game of Life - Wikipedia",
+      "discovered": "2026-02-07T03:52:26.234433+00:00",
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    "f64d5238b8fa": {
+      "url": "https://en.wikipedia.org/wiki/Recursive_self-improvement",
+      "title": "Recursive self-improvement - Wikipedia",
+      "discovered": "2026-02-07T03:57:08.716624+00:00",
+      "topics": [
+        "d0428ff18aeb"
+      ]
+    },
+    "602934c94288": {
+      "url": "https://en.wikipedia.org/wiki/Intelligence_amplification",
+      "title": "Intelligence amplification - Wikipedia",
+      "discovered": "2026-02-07T03:57:10.077830+00:00",
+      "topics": [
+        "d0428ff18aeb"
+      ]
+    },
+    "f37742882c10": {
+      "url": "https://en.wikipedia.org/wiki/Swarm_intelligence",
+      "title": "Swarm intelligence - Wikipedia",
+      "discovered": "2026-02-07T03:57:12.153497+00:00",
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    "40ea382947b2": {
+      "url": "https://en.wikipedia.org/wiki/Self-organization",
+      "title": "Self-organization - Wikipedia",
+      "discovered": "2026-02-07T04:03:00.573209+00:00",
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    "2eed83cfa284": {
+      "url": "https://en.wikipedia.org/wiki/Consciousness",
+      "title": "Consciousness - Wikipedia",
+      "discovered": "2026-02-07T04:05:50.194493+00:00",
+      "topics": [
+        "021c54cf3add"
+      ]
+    },
+    "37a5a8613612": {
+      "url": "https://en.wikipedia.org/wiki/Information_theory",
+      "title": "Information Theory - Wikipedia",
+      "discovered": "2026-02-07T04:06:05.983967+00:00",
+      "topics": [
+        "c067cfefd137"
+      ]
+    },
+    "071302f3bdde": {
+      "url": "https://en.wikipedia.org/wiki/Autopoiesis",
+      "title": "Autopoiesis - Wikipedia",
+      "discovered": "2026-02-07T04:06:06.779953+00:00",
+      "topics": [
+        "2f98d5935837"
+      ]
+    },
+    "64da5eec8afd": {
+      "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+      "title": "Integrated information theory - Wikipedia",
+      "discovered": "2026-02-07T04:15:04.093303+00:00",
+      "topics": [
+        "021c54cf3add"
+      ]
+    },
+    "afa8b90caae0": {
+      "url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+      "title": "Entropy (information theory) - Wikipedia",
+      "discovered": "2026-02-07T04:16:33.208777+00:00",
+      "topics": [
+        "c067cfefd137"
+      ]
+    },
+    "551b2ad06dcb": {
+      "url": "https://en.wikipedia.org/wiki/Chaos_theory",
+      "title": "Chaos theory - Wikipedia",
+      "discovered": "2026-02-07T04:36:55.604653+00:00",
+      "topics": [
+        "a2aca32e135f"
+      ]
+    },
+    "984a097caf94": {
+      "url": "https://en.wikipedia.org/wiki/Butterfly_effect",
+      "title": "Butterfly effect - Wikipedia",
+      "discovered": "2026-02-07T04:38:04.327073+00:00",
+      "topics": [
+        "a2aca32e135f"
+      ]
+    },
+    "42cd334f2466": {
+      "url": "https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem",
+      "title": "Shannon's source coding theorem - Wikipedia",
+      "discovered": "2026-02-07T04:38:05.037246+00:00",
+      "topics": [
+        "c067cfefd137"
+      ]
+    },
+    "3061f58387a5": {
+      "url": "https://en.wikipedia.org/wiki/Maturana",
+      "title": "Maturana - Wikipedia",
+      "discovered": "2026-02-07T04:43:34.929266+00:00",
+      "topics": [
+        "2f98d5935837"
+      ]
+    },
+    "a2d51c23175e": {
+      "url": "https://en.wikipedia.org/wiki/Thermodynamics",
+      "title": "Thermodynamics - Wikipedia",
+      "discovered": "2026-02-07T04:44:44.516574+00:00",
+      "topics": [
+        "Thermodynamics"
+      ],
+      "topic": "Thermodynamics"
+    },
+    "00b4e71d5c57": {
+      "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+      "title": "Philosophy of mind - Wikipedia",
+      "discovered": "2026-02-07T04:44:48.558664+00:00",
+      "topics": [
+        "Philosophy of Mind"
+      ],
+      "topic": "Philosophy of Mind"
+    },
+    "66494bef3c8b": {
+      "url": "https://en.wikipedia.org/wiki/Graph_theory",
+      "title": "Graph theory - Wikipedia",
+      "discovered": "2026-02-07T04:45:40.971534+00:00",
+      "topics": [
+        "Graph Theory"
+      ],
+      "topic": "Graph Theory"
+    },
+    "65b5ddeaf785": {
+      "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+      "title": "Hard problem of consciousness - Wikipedia",
+      "discovered": "2026-02-07T04:51:20.798155+00:00",
+      "topics": [
+        "Consciousness"
+      ]
+    },
+    "8e9607620db8": {
+      "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+      "title": "Global workspace theory - Wikipedia",
+      "discovered": "2026-02-07T04:51:22.006824+00:00",
+      "topics": [
+        "Consciousness"
+      ]
+    },
+    "b2165b08fb7d": {
+      "url": "https://en.wikipedia.org/wiki/Higher-order_theories_of_consciousness",
+      "title": "Higher-order theories of consciousness - Wikipedia",
+      "discovered": "2026-02-07T04:51:23.480886+00:00",
+      "topics": [
+        "Consciousness"
+      ]
+    },
+    "424e404017e6": {
+      "url": "https://en.wikipedia.org/wiki/Lorenz_system",
+      "title": "Lorenz system - Wikipedia",
+      "discovered": "2026-02-07T04:51:27.881377+00:00",
+      "topics": [
+        "Chaos Theory"
+      ]
+    },
+    "1b729d09ee5c": {
+      "url": "https://en.wikipedia.org/wiki/Strange_attractor",
+      "title": "Attractor - Wikipedia",
+      "discovered": "2026-02-07T04:51:29.228218+00:00",
+      "topics": [
+        "Chaos Theory"
+      ]
+    },
+    "8a88729d4b41": {
+      "url": "https://en.wikipedia.org/wiki/Fractal",
+      "title": "Fractal - Wikipedia",
+      "discovered": "2026-02-07T04:51:31.120800+00:00",
+      "topics": [
+        "Chaos Theory"
+      ]
+    },
+    "774282b8de48": {
+      "url": "https://en.wikipedia.org/wiki/Humberto_Maturana",
+      "title": "Humberto Maturana - Wikipedia",
+      "discovered": "2026-02-07T04:51:37.392987+00:00",
+      "topics": [
+        "Autopoiesis"
+      ]
+    },
+    "c2dfea94ae82": {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Varela",
+      "title": "Francisco Varela - Wikipedia",
+      "discovered": "2026-02-07T04:51:38.957938+00:00",
+      "topics": [
+        "Autopoiesis"
+      ]
+    },
+    "ab7674076b16": {
+      "url": "https://en.wikipedia.org/wiki/Enactivism",
+      "title": "Enactivism - Wikipedia",
+      "discovered": "2026-02-07T04:51:42.835754+00:00",
+      "topics": [
+        "Autopoiesis"
+      ]
+    }
+  },
+  "last_updated": "2026-02-07T04:51:42.837462+00:00"
+}

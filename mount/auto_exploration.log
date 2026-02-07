@@ -1,0 +1,972 @@
+[2026-02-07T03:52:25.025851+00:00] === Starting Auto-Expansion ===
+[2026-02-07T03:52:25.027178+00:00] Found 3 topics to expand
+[2026-02-07T03:52:25.027613+00:00] Expanding 'Artificial Life' (currently 1 sources)
+[2026-02-07T03:52:25.027989+00:00]   Fetching: https://en.wikipedia.org/wiki/Cellular_automaton
+[2026-02-07T03:52:25.798398+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Cellular_automaton...
+Fetched 306419 characters
+Added source: 68b31ae99401
+[2026-02-07T03:52:25.799397+00:00]   Fetching: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+[2026-02-07T03:52:26.241704+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life...
+Fetched 244444 characters
+Added source: 8b36199561fe
+[2026-02-07T03:52:26.242049+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T03:57:08.038672+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T03:57:08.039374+00:00] === Starting Auto-Expansion ===
+[2026-02-07T03:57:08.040414+00:00] Found 2 topics to expand
+[2026-02-07T03:57:08.040923+00:00] Expanding 'Self-Improving Systems' (currently 1 sources)
+[2026-02-07T03:57:08.041299+00:00]   Fetching: https://en.wikipedia.org/wiki/Recursive_self-improvement
+[2026-02-07T03:57:08.724176+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Recursive_self-improvement...
+Fetched 118590 characters
+Added source: f64d5238b8fa
+[2026-02-07T03:57:08.724792+00:00]   Fetching: https://en.wikipedia.org/wiki/Intelligence_amplification
+[2026-02-07T03:57:10.095602+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Intelligence_amplification...
+Fetched 152707 characters
+Added source: 602934c94288
+[2026-02-07T03:57:10.097896+00:00] Expanding 'Emergent Behavior' (currently 1 sources)
+[2026-02-07T03:57:10.099381+00:00]   Fetching: https://en.wikipedia.org/wiki/Swarm_intelligence
+[2026-02-07T03:57:12.161754+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Swarm_intelligence...
+Fetched 297710 characters
+Added source: f37742882c10
+[2026-02-07T03:57:12.162415+00:00] === Auto-Expansion Complete: 3 sources added ===
+[2026-02-07T03:57:12.162762+00:00] === Generating Synthesis Report ===
+[2026-02-07T03:57:12.186568+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_035712.md
+[2026-02-07T03:57:12.186933+00:00] === Getting Next Suggestions ===
+[2026-02-07T03:57:12.209642+00:00] Suggested Next Explorations:
+
+
+[2026-02-07T03:57:12.210201+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:02:57.826919+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:02:57.827684+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:02:57.828818+00:00] Found 1 topics to expand
+[2026-02-07T04:02:57.829413+00:00] Expanding 'Emergent Behavior' (currently 2 sources)
+[2026-02-07T04:02:57.829945+00:00]   Fetching: https://en.wikipedia.org/wiki/Swarm_intelligence
+[2026-02-07T04:02:58.217546+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Swarm_intelligence...
+Fetched 297710 characters
+Added source: f37742882c10
+[2026-02-07T04:02:58.218252+00:00]   Fetching: https://en.wikipedia.org/wiki/Self-organization
+[2026-02-07T04:03:00.594176+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Self-organization...
+Fetched 301315 characters
+Added source: 40ea382947b2
+[2026-02-07T04:03:00.595376+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:03:00.595950+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:03:00.624962+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_040300.md
+[2026-02-07T04:03:00.625367+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:03:00.646571+00:00] Suggested Next Explorations:
+
+
+[2026-02-07T04:03:00.647103+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:03:02.699857+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:03:02.700876+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:03:02.702171+00:00] Found 0 topics to expand
+[2026-02-07T04:03:02.702803+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:03:02.703322+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:03:02.729445+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_040302.md
+[2026-02-07T04:03:02.729876+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:03:02.750774+00:00] Suggested Next Explorations:
+
+
+[2026-02-07T04:03:02.751294+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:03:04.811008+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:03:04.811943+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:03:04.814035+00:00] Found 0 topics to expand
+[2026-02-07T04:03:04.814480+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:03:04.814762+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:03:04.836503+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_040304.md
+[2026-02-07T04:03:04.836790+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:03:04.856415+00:00] Suggested Next Explorations:
+
+
+[2026-02-07T04:03:04.856771+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:15:02.821870+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:02.822751+00:00] Found 3 topics to expand
+[2026-02-07T04:15:02.823047+00:00] Expanding 'Consciousness' (currently 1 sources)
+[2026-02-07T04:15:02.823285+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:15:03.625815+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 769354 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:15:03.626914+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:15:04.100985+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:15:04.101681+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:04.102162+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:04.102630+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:04.103027+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:04.103411+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:15:40.627416+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:40.628605+00:00] Found 3 topics to expand
+[2026-02-07T04:15:40.629057+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:40.629444+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:40.629824+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:40.630156+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:40.630575+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:15:42.760943+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:42.762316+00:00] Found 3 topics to expand
+[2026-02-07T04:15:42.762747+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:42.763129+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:42.763560+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:42.764017+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:42.764449+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:15:44.884856+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:44.886160+00:00] Found 3 topics to expand
+[2026-02-07T04:15:44.886624+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:44.887041+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:44.887553+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:44.888073+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:44.888559+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:15:47.006216+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:47.007407+00:00] Found 3 topics to expand
+[2026-02-07T04:15:47.007828+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:47.008161+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:47.008480+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:47.008950+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:47.009387+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:15:49.137219+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:15:49.139173+00:00] Found 3 topics to expand
+[2026-02-07T04:15:49.139836+00:00] Expanding 'Information Theory' (currently 1 sources)
+[2026-02-07T04:15:49.140382+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:15:49.140919+00:00] Expanding 'Autopoiesis' (currently 1 sources)
+[2026-02-07T04:15:49.141471+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:15:49.141968+00:00] === Auto-Expansion Complete: 0 sources added ===
+[2026-02-07T04:27:29.311213+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:29.311980+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:29.313154+00:00] Found 3 topics to expand
+[2026-02-07T04:27:29.313732+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:29.314272+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:29.602775+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:29.603235+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:29.989924+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:29.990868+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:29.991767+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:29.992649+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:29.993569+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:29.994221+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:29.994799+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:30.020123+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042730.md
+[2026-02-07T04:27:30.020937+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:30.042296+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:30.042905+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:32.184487+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:32.185560+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:32.187310+00:00] Found 3 topics to expand
+[2026-02-07T04:27:32.187940+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:32.188595+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:32.807661+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:32.808557+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:33.363466+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:33.364551+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:33.365203+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:33.365734+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:33.366265+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:33.366777+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:33.367334+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:33.392871+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042733.md
+[2026-02-07T04:27:33.393442+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:33.413181+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:33.413702+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:35.564996+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:35.565829+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:35.567098+00:00] Found 3 topics to expand
+[2026-02-07T04:27:35.567685+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:35.568245+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:36.407400+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:36.408471+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:37.127269+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:37.128467+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:37.129408+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:37.130263+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:37.131128+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:37.131866+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:37.132600+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:37.160903+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042737.md
+[2026-02-07T04:27:37.161881+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:37.183425+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:37.183990+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:39.334564+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:39.335378+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:39.336674+00:00] Found 3 topics to expand
+[2026-02-07T04:27:39.337255+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:39.337849+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:40.191914+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:40.193028+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:40.771346+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:40.772457+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:40.773406+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:40.774319+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:40.775108+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:40.775779+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:40.776434+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:40.805215+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042740.md
+[2026-02-07T04:27:40.805997+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:40.827718+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:40.828330+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:42.965985+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:42.966962+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:42.968135+00:00] Found 3 topics to expand
+[2026-02-07T04:27:42.968602+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:42.969083+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:43.547716+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:43.548507+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:44.052087+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:44.053175+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:44.053950+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:44.054617+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:44.055352+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:44.055959+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:44.056561+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:44.081638+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042744.md
+[2026-02-07T04:27:44.082111+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:44.101269+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:44.101809+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:46.250685+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:46.251558+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:46.252880+00:00] Found 3 topics to expand
+[2026-02-07T04:27:46.253465+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:46.254171+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:46.661320+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:46.661865+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:47.031098+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:47.031625+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:47.032015+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:47.032401+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:47.032710+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:47.032997+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:47.033304+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:47.052993+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042747.md
+[2026-02-07T04:27:47.053406+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:47.072589+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:47.073100+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:49.223503+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:49.224354+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:49.225578+00:00] Found 3 topics to expand
+[2026-02-07T04:27:49.226142+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:49.226698+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:49.936133+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:49.937013+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:50.513250+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:50.514392+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:50.514909+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:50.515229+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:50.515535+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:50.515817+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:50.516091+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:50.542133+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042750.md
+[2026-02-07T04:27:50.542534+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:50.562493+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:50.562944+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:52.706638+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:52.707572+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:52.708705+00:00] Found 3 topics to expand
+[2026-02-07T04:27:52.709290+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:52.709770+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:53.645265+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:53.646400+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:54.676853+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:54.679017+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:54.680248+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:54.681187+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:54.681950+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:54.682549+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:54.682944+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:54.709801+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042754.md
+[2026-02-07T04:27:54.710289+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:54.730214+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:54.730753+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:27:56.884119+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:27:56.884832+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:27:56.885690+00:00] Found 3 topics to expand
+[2026-02-07T04:27:56.886021+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:27:56.886264+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:27:57.690545+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:27:57.691409+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:27:58.100686+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:27:58.101408+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:27:58.101862+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:27:58.102238+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:27:58.102600+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:27:58.102918+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:27:58.103181+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:27:58.125348+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042758.md
+[2026-02-07T04:27:58.125975+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:27:58.148173+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:27:58.148682+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:28:00.309018+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:28:00.309663+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:28:00.310335+00:00] Found 3 topics to expand
+[2026-02-07T04:28:00.310656+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:28:00.311038+00:00]   Fetching: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:28:00.604115+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Consciousness...
+Fetched 768700 characters
+Added source: 2eed83cfa284
+[2026-02-07T04:28:00.604679+00:00]   Fetching: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:28:01.029781+00:00]   Result: Fetching content from https://en.wikipedia.org/wiki/Integrated_information_theory...
+Fetched 290168 characters
+Added source: 64da5eec8afd
+[2026-02-07T04:28:01.032043+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:28:01.033112+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:28:01.033983+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:28:01.034815+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:28:01.035591+00:00] === Auto-Expansion Complete: 2 sources added ===
+[2026-02-07T04:28:01.036046+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:28:01.062176+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_042801.md
+[2026-02-07T04:28:01.063198+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:28:01.082887+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+
+[2026-02-07T04:28:01.083383+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:36:09.691681+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:36:09.693159+00:00] Knowledge base currently has 14 unique sources
+[2026-02-07T04:36:09.694189+00:00] Found 3 topics to expand
+[2026-02-07T04:36:09.694761+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:36:09.695187+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:36:09.695591+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:36:09.696063+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:36:09.696593+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:36:09.696963+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:36:09.697323+00:00]   No URL suggestions for 'Autopoiesis'
+[2026-02-07T04:36:09.697628+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:28.774329+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:37:28.775002+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:37:28.775689+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:37:28.776170+00:00] Found 4 topics to expand
+[2026-02-07T04:37:28.776435+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:37:28.776708+00:00]   No URL suggestions for 'Chaos Theory'
+[2026-02-07T04:37:28.776905+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:37:28.777096+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:37:28.777293+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:37:28.777471+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:37:28.777645+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:37:28.777828+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:28.778011+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:37:28.798273+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043728.md
+[2026-02-07T04:37:28.798810+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:37:28.818590+00:00] Suggested Next Explorations:
+
+1. Expand 'Chaos Theory' - only 1 sources
+2. Connect 'Consciousness' - appears isolated
+3. Connect 'Information Theory' - appears isolated
+4. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:37:28.819052+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:37:29.899531+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:37:29.900734+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:37:29.902518+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:37:29.903567+00:00] Found 4 topics to expand
+[2026-02-07T04:37:29.904110+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:37:29.904606+00:00]   No URL suggestions for 'Chaos Theory'
+[2026-02-07T04:37:29.905128+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:37:29.905660+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:37:29.906193+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:37:29.906596+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:37:29.906937+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:37:29.907285+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:29.907614+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:37:29.928905+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043729.md
+[2026-02-07T04:37:29.929375+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:37:29.948856+00:00] Suggested Next Explorations:
+
+1. Expand 'Chaos Theory' - only 1 sources
+2. Connect 'Consciousness' - appears isolated
+3. Connect 'Information Theory' - appears isolated
+4. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:37:29.949347+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:37:31.037547+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:37:31.038463+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:37:31.039608+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:37:31.040315+00:00] Found 4 topics to expand
+[2026-02-07T04:37:31.040616+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:37:31.040912+00:00]   No URL suggestions for 'Chaos Theory'
+[2026-02-07T04:37:31.041178+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:37:31.041429+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:37:31.041647+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:37:31.041866+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:37:31.042107+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:37:31.042376+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:31.042603+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:37:31.064325+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043731.md
+[2026-02-07T04:37:31.064623+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:37:31.084409+00:00] Suggested Next Explorations:
+
+1. Expand 'Chaos Theory' - only 1 sources
+2. Connect 'Consciousness' - appears isolated
+3. Connect 'Information Theory' - appears isolated
+4. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:37:31.084830+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:37:32.164497+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:37:32.165151+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:37:32.166000+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:37:32.166598+00:00] Found 4 topics to expand
+[2026-02-07T04:37:32.166915+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:37:32.167240+00:00]   No URL suggestions for 'Chaos Theory'
+[2026-02-07T04:37:32.167569+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:37:32.167834+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:37:32.168083+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:37:32.168301+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:37:32.168496+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:37:32.168713+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:32.169002+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:37:32.191383+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043732.md
+[2026-02-07T04:37:32.191733+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:37:32.212552+00:00] Suggested Next Explorations:
+
+1. Expand 'Chaos Theory' - only 1 sources
+2. Connect 'Consciousness' - appears isolated
+3. Connect 'Information Theory' - appears isolated
+4. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:37:32.213012+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:37:33.261498+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:37:33.262095+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:37:33.262887+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:37:33.263406+00:00] Found 4 topics to expand
+[2026-02-07T04:37:33.263658+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:37:33.263881+00:00]   No URL suggestions for 'Chaos Theory'
+[2026-02-07T04:37:33.264091+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:37:33.264324+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:37:33.264520+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:37:33.264704+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:37:33.264956+00:00]   No URL suggestions for 'Information Theory'
+[2026-02-07T04:37:33.265133+00:00] === Auto-Expansion Complete: 0 new sources added, 2 duplicates skipped ===
+[2026-02-07T04:37:33.265315+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:37:33.290853+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043733.md
+[2026-02-07T04:37:33.291169+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:37:33.311936+00:00] Suggested Next Explorations:
+
+1. Expand 'Chaos Theory' - only 1 sources
+2. Connect 'Consciousness' - appears isolated
+3. Connect 'Information Theory' - appears isolated
+4. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:37:33.312390+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:38:01.902555+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:38:01.902980+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:38:01.903648+00:00] Knowledge base currently has 15 unique sources
+[2026-02-07T04:38:01.904070+00:00] Found 4 topics to expand
+[2026-02-07T04:38:01.904304+00:00] Expanding 'Chaos Theory' (currently 1 sources)
+[2026-02-07T04:38:01.904513+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:38:01.904724+00:00]   Fetching: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:38:04.350068+00:00]   ✓ Added new source: Fetching content from https://en.wikipedia.org/wiki/Butterfly_effect...
+Fetched 292015 characters
+Added source: 984a097caf94
+[2026-02-07T04:38:04.350965+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:38:04.351606+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:38:04.352172+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:38:04.352641+00:00] Expanding 'Information Theory' (currently 2 sources)
+[2026-02-07T04:38:04.353089+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Information_theory
+[2026-02-07T04:38:04.353475+00:00]   Fetching: https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem
+[2026-02-07T04:38:05.063695+00:00]   ✓ Added new source: Fetching content from https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem...
+Fetched 155209 characters
+Added source: 42cd334f2466
+[2026-02-07T04:38:05.064432+00:00] === Auto-Expansion Complete: 2 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:38:05.065198+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:38:05.091811+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_043805.md
+[2026-02-07T04:38:05.092287+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:38:05.113013+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:38:05.113591+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:32.982622+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:32.984097+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:32.985100+00:00] Knowledge base currently has 17 unique sources
+[2026-02-07T04:43:32.985673+00:00] Found 3 topics to expand
+[2026-02-07T04:43:32.985942+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:32.986204+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:32.986492+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:32.986792+00:00] Expanding 'Autopoiesis' (currently 2 sources)
+[2026-02-07T04:43:32.987062+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Autopoiesis
+[2026-02-07T04:43:32.987342+00:00]   Fetching: https://en.wikipedia.org/wiki/Maturana
+[2026-02-07T04:43:34.958606+00:00]   ✓ Added new source: Fetching content from https://en.wikipedia.org/wiki/Maturana...
+Fetched 49232 characters
+Added source: 3061f58387a5
+[2026-02-07T04:43:34.959610+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:34.960293+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:34.960975+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:34.961684+00:00] === Auto-Expansion Complete: 1 new sources added, 5 duplicates skipped ===
+[2026-02-07T04:43:34.962354+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:34.989300+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044334.md
+[2026-02-07T04:43:34.989772+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:35.009391+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:35.009909+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:37.090245+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:37.091194+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:37.092560+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:37.093468+00:00] Found 2 topics to expand
+[2026-02-07T04:43:37.093897+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:37.094320+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:37.094681+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:37.094991+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:37.095289+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:37.095570+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:37.095852+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:37.096123+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:37.116605+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044337.md
+[2026-02-07T04:43:37.117104+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:37.136732+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:37.137256+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:39.215241+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:39.216238+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:39.217456+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:39.218160+00:00] Found 2 topics to expand
+[2026-02-07T04:43:39.218521+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:39.218966+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:39.219262+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:39.219601+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:39.219962+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:39.220341+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:39.220668+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:39.221000+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:39.243137+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044339.md
+[2026-02-07T04:43:39.243481+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:39.264779+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:39.265486+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:41.345316+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:41.346539+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:41.347716+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:41.348588+00:00] Found 2 topics to expand
+[2026-02-07T04:43:41.348990+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:41.349430+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:41.349818+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:41.350197+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:41.350555+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:41.350928+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:41.351258+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:41.351600+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:41.373270+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044341.md
+[2026-02-07T04:43:41.373743+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:41.393984+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:41.394532+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:43.474017+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:43.475096+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:43.476450+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:43.477483+00:00] Found 2 topics to expand
+[2026-02-07T04:43:43.478016+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:43.478583+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:43.479018+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:43.479403+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:43.479745+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:43.480077+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:43.480405+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:43.480726+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:43.502330+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044343.md
+[2026-02-07T04:43:43.502769+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:43.521865+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:43.522520+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:45.603454+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:45.604351+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:45.605562+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:45.606273+00:00] Found 2 topics to expand
+[2026-02-07T04:43:45.606618+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:45.606925+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:45.607196+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:45.607500+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:45.607796+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:45.608095+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:45.608466+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:45.608819+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:45.630166+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044345.md
+[2026-02-07T04:43:45.630651+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:45.650326+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:45.650857+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:47.728055+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:47.729080+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:47.730374+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:47.731040+00:00] Found 2 topics to expand
+[2026-02-07T04:43:47.731466+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:47.731898+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:47.732312+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:47.732661+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:47.733056+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:47.733430+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:47.733775+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:47.734076+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:47.756364+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044347.md
+[2026-02-07T04:43:47.756699+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:47.776468+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:47.776941+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:49.843590+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:49.844392+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:49.845405+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:49.846106+00:00] Found 2 topics to expand
+[2026-02-07T04:43:49.846512+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:49.846820+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:49.847083+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:49.847399+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:49.847688+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:49.847982+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:49.848236+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:49.848548+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:49.871926+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044349.md
+[2026-02-07T04:43:49.872446+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:49.894128+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:49.894609+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:51.946005+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:51.946600+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:51.947385+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:51.947988+00:00] Found 2 topics to expand
+[2026-02-07T04:43:51.948302+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:51.948582+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:51.948962+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:51.949247+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:51.949523+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:51.949778+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:51.950051+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:51.950564+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:51.974485+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044351.md
+[2026-02-07T04:43:51.975015+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:51.996323+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:51.996938+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:54.085484+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:54.087344+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:54.088487+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:54.089419+00:00] Found 2 topics to expand
+[2026-02-07T04:43:54.089869+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:54.090308+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:54.090751+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:54.091184+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:54.091515+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:54.091810+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:54.092146+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:54.092476+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:54.113236+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044354.md
+[2026-02-07T04:43:54.113676+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:54.133298+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:54.133750+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:56.207818+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:56.208722+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:56.209704+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:56.210506+00:00] Found 2 topics to expand
+[2026-02-07T04:43:56.210896+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:56.211314+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:56.211596+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:56.211960+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:56.212241+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:56.212542+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:56.212799+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:56.213043+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:56.235983+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044356.md
+[2026-02-07T04:43:56.236319+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:56.256129+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:56.256495+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:43:58.334079+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:43:58.334983+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:43:58.336265+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:43:58.338353+00:00] Found 2 topics to expand
+[2026-02-07T04:43:58.338967+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:43:58.339538+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:43:58.340062+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:43:58.340407+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:43:58.340726+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:43:58.341006+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:43:58.341305+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:43:58.341602+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:43:58.362572+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044358.md
+[2026-02-07T04:43:58.363027+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:43:58.383003+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:43:58.383440+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:00.448764+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:00.449508+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:00.450667+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:00.451606+00:00] Found 2 topics to expand
+[2026-02-07T04:44:00.452108+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:00.452589+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:00.453005+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:00.453424+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:00.453849+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:00.454111+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:00.454377+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:00.454679+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:00.477699+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044400.md
+[2026-02-07T04:44:00.478151+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:00.498002+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:00.498475+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:02.542796+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:02.543248+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:02.543996+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:02.544469+00:00] Found 2 topics to expand
+[2026-02-07T04:44:02.544689+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:02.544896+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:02.545111+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:02.545358+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:02.545588+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:02.545951+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:02.546205+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:02.546463+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:02.568427+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044402.md
+[2026-02-07T04:44:02.568909+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:02.592580+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:02.593056+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:04.665064+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:04.666078+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:04.667369+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:04.668241+00:00] Found 2 topics to expand
+[2026-02-07T04:44:04.668697+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:04.668991+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:04.669248+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:04.669506+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:04.669757+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:04.670000+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:04.670248+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:04.670500+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:04.693996+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044404.md
+[2026-02-07T04:44:04.694355+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:04.714449+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:04.714846+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:06.794395+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:06.795321+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:06.796627+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:06.797586+00:00] Found 2 topics to expand
+[2026-02-07T04:44:06.797936+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:06.798307+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:06.798644+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:06.798941+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:06.799245+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:06.799578+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:06.799874+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:06.800195+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:06.821029+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044406.md
+[2026-02-07T04:44:06.821402+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:06.840577+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:06.841043+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:08.916084+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:08.916951+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:08.918155+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:08.918913+00:00] Found 2 topics to expand
+[2026-02-07T04:44:08.920532+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:08.920925+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:08.921233+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:08.921483+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:08.921711+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:08.921932+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:08.922149+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:08.922364+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:08.944473+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044408.md
+[2026-02-07T04:44:08.944749+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:08.965153+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:08.965578+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:11.041380+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:11.042122+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:11.043111+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:11.043695+00:00] Found 2 topics to expand
+[2026-02-07T04:44:11.043994+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:11.044319+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:11.044561+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:11.044822+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:11.045052+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:11.045292+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:11.045512+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:11.045701+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:11.070053+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044411.md
+[2026-02-07T04:44:11.070502+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:11.092331+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:11.092781+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:13.153609+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:13.154352+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:13.155416+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:13.156140+00:00] Found 2 topics to expand
+[2026-02-07T04:44:13.156516+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:13.156861+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:13.157209+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:13.157613+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:13.158024+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:13.158408+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:13.158905+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:13.159253+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:13.180071+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044413.md
+[2026-02-07T04:44:13.180527+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:13.200660+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:13.201183+00:00] === CYCLE COMPLETE ===
+[2026-02-07T04:44:15.249732+00:00] === STARTING AUTONOMOUS EXPLORATION CYCLE ===
+[2026-02-07T04:44:15.250421+00:00] === Starting Auto-Expansion ===
+[2026-02-07T04:44:15.251193+00:00] Knowledge base currently has 18 unique sources
+[2026-02-07T04:44:15.251947+00:00] Found 2 topics to expand
+[2026-02-07T04:44:15.252233+00:00] Expanding 'Consciousness' (currently 2 sources)
+[2026-02-07T04:44:15.252536+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Consciousness
+[2026-02-07T04:44:15.252834+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Integrated_information_theory
+[2026-02-07T04:44:15.253125+00:00] Expanding 'Chaos Theory' (currently 2 sources)
+[2026-02-07T04:44:15.253419+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Chaos_theory
+[2026-02-07T04:44:15.253712+00:00]   ⏭ Skipped duplicate: https://en.wikipedia.org/wiki/Butterfly_effect
+[2026-02-07T04:44:15.254024+00:00] === Auto-Expansion Complete: 0 new sources added, 4 duplicates skipped ===
+[2026-02-07T04:44:15.254339+00:00] === Generating Synthesis Report ===
+[2026-02-07T04:44:15.277030+00:00] Synthesis report saved to: /home/dev/mnt/synthesis_20260207_044415.md
+[2026-02-07T04:44:15.277414+00:00] === Getting Next Suggestions ===
+[2026-02-07T04:44:15.298724+00:00] Suggested Next Explorations:
+
+1. Connect 'Consciousness' - appears isolated
+2. Connect 'Information Theory' - appears isolated
+3. Connect 'Chaos Theory' - appears isolated
+
+[2026-02-07T04:44:15.299323+00:00] === CYCLE COMPLETE ===

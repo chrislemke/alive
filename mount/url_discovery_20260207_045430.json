@@ -1,0 +1,507 @@
+{
+  "timestamp": "2026-02-07T04:54:30.566376",
+  "existing_urls": 30,
+  "discovered_urls": 6509,
+  "suggestions": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:Random",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Help:Contents",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:Search",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+      "score": 137,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-modification - Wikipedia"
+      ],
+      "mention_count": 27
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Help:Category",
+      "score": 132,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 26
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+      "score": 132,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 26
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+      "score": 132,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 26
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+      "score": 117,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 23
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+      "score": 117,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 23
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+      "score": 107,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 21
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+      "score": 102,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 20
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+      "score": 102,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 20
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+      "score": 102,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 20
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayback_Machine",
+      "score": 97,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 19
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+      "score": 97,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 19
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bibcode_(identifier)",
+      "score": 92,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 18
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+      "score": 87,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 17
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ArXiv_(identifier)",
+      "score": 82,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 16
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Help:Authority_control",
+      "score": 72,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Swarm intelligence - Wikipedia"
+      ],
+      "mention_count": 14
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/PMC_(identifier)",
+      "score": 72,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Cellular automaton - Wikipedia"
+      ],
+      "mention_count": 14
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hdl_(identifier)",
+      "score": 72,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Conway's Game of Life - Wikipedia",
+        "Intelligence amplification - Wikipedia"
+      ],
+      "mention_count": 14
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "score": 72,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Recursive self-improvement - Wikipedia"
+      ],
+      "mention_count": 12
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+      "score": 62,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Intelligence amplification - Wikipedia"
+      ],
+      "mention_count": 12
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/JSTOR_(identifier)",
+      "score": 52,
+      "mentioned_in": [
+        "Conway's Game of Life - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Integrated information theory - Wikipedia"
+      ],
+      "mention_count": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Physics",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 10
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bifurcation_theory",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Recursive self-improvement - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Complexity",
+      "score": 52,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Chaos theory - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dynamical_system",
+      "score": 52,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Entropy (information theory) - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "score": 47,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 9
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Template:Chaos_theory",
+      "score": 47,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Systems_theory",
+      "score": 47,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Self-organization - Wikipedia",
+        "Fractal - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/CiteSeerX_(identifier)",
+      "score": 47,
+      "mentioned_in": [
+        "Cellular automaton - Wikipedia",
+        "Conway's Game of Life - Wikipedia",
+        "Swarm intelligence - Wikipedia"
+      ],
+      "mention_count": 9
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quantum_chaos",
+      "score": 47,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special:EditPage/Template:Chaos_theory",
+      "score": 47,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Template_talk:Chaos_theory",
+      "score": 47,
+      "mentioned_in": [
+        "Chaos theory - Wikipedia",
+        "Butterfly effect - Wikipedia",
+        "Lorenz system - Wikipedia"
+      ],
+      "mention_count": 5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+      "score": 47,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Conway's Game of Life - Wikipedia"
+      ],
+      "mention_count": 9
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Biology",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coupled_map_lattice",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Cellular automaton - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cognitive_science",
+      "score": 42,
+      "mentioned_in": [
+        "Intelligence amplification - Wikipedia",
+        "Philosophy of mind - Wikipedia",
+        "Hard problem of consciousness - Wikipedia"
+      ],
+      "mention_count": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Population_dynamics",
+      "score": 42,
+      "mentioned_in": [
+        "Emergence - Wikipedia",
+        "Artificial life - Wikipedia",
+        "Self-organization - Wikipedia"
+      ],
+      "mention_count": 8
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Information_system",
+      "score": 42,
+      "mentioned_in": [
+        "Artificial life - Wikipedia",
+        "Graph theory - Wikipedia",
+        "Humberto Maturana - Wikipedia"
+      ],
+      "mention_count": 4
+    }
+  ]
+}

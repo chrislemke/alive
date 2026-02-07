@@ -1,0 +1,124 @@
+{
+  "evidence": {
+    "hypothesis": "quantum entanglement enables non-local cognition",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 5,
+    "terms_found": 5,
+    "supporting_sources": [
+      {
+        "source_id": "f37742882c10",
+        "score": 73,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Swarm_intelligence",
+          "title": "Swarm intelligence - Wikipedia",
+          "discovered": "2026-02-07T03:57:12.153497+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "afa8b90caae0",
+        "score": 63,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+          "title": "Entropy (information theory) - Wikipedia",
+          "discovered": "2026-02-07T04:16:33.208777+00:00",
+          "topics": [
+            "c067cfefd137"
+          ]
+        }
+      },
+      {
+        "source_id": "40ea382947b2",
+        "score": 51,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Self-organization",
+          "title": "Self-organization - Wikipedia",
+          "discovered": "2026-02-07T04:03:00.573209+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "30dae6119dd0",
+        "score": 48,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Emergence",
+          "title": "Emergence - Wikipedia",
+          "discovered": "2026-02-07T03:50:42.058455+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "68b31ae99401",
+        "score": 48,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Cellular_automaton",
+          "title": "Cellular automaton - Wikipedia",
+          "discovered": "2026-02-07T03:52:25.782238+00:00",
+          "topics": [
+            "90eaebd8a3c1"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "local",
+        "total_mentions": 308,
+        "source_count": 10,
+        "sample_contexts": [
+          "\u062f \u2013 Arabic\" lang=\"ar\" hreflang=\"ar\" data-title=\"\u062a\u0648\u0644\u062f\" data-language-autonym=\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\" data-language-local-name=\"Arabic\" class=\"interlanguage-link-target\"><span>\u0627\u0644\u0639\u0631\u0628\u064a\u0629</span></a></li><li class=\"interlangua",
+          "ni\" lang=\"az\" hreflang=\"az\" data-title=\"Yaranma\" data-language-autonym=\"Az\u0259rbaycanca\" data-language-local-name=\"Azerbaijani\" class=\"interlanguage-link-target\"><span>Az\u0259rbaycanca</span></a></li><li class=\"i"
+        ]
+      },
+      {
+        "term": "cognition",
+        "total_mentions": 54,
+        "source_count": 6,
+        "sample_contexts": [
+          " title=\"Language\">language</a> and <a href=\"/wiki/Human_cognition\" class=\"mw-redirect\" title=\"Human cognition\">human cognition</a> explored how emergent properties arise from neural and social interactions. Hi"
+        ]
+      },
+      {
+        "term": "quantum",
+        "total_mentions": 41,
+        "source_count": 6,
+        "sample_contexts": [
+          "\" href=\"https://doi.org/10.1038%2Fnpjquantmats.2016.24\">\"Defining Emergence in Physics\"</a>. <i>npj Quantum Materials</i>. <b>1</b> (1). Nature Research: 16024. <a href=\"/wiki/Bibcode_(identifier)\" class=\"mw",
+          "rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=npj+Quantum+Materials&amp;rft.atitle=Defining+Emergence+in+Physics&amp;rft.volume=1&amp;rft.issue=1&amp;rft.pag"
+        ]
+      },
+      {
+        "term": "enables",
+        "total_mentions": 4,
+        "source_count": 3,
+        "sample_contexts": [
+          "cket\">&#93;</span></a></sup> This practice nourishes transformation at the inner-being level, which enables new ways of being, seeing and relating to emerge. The concept of emergence has also been employed i"
+        ]
+      },
+      {
+        "term": "entanglement",
+        "total_mentions": 2,
+        "source_count": 1,
+        "sample_contexts": [
+          "tates\" title=\"Geometry of Quantum States\"><i>Geometry of Quantum States: An Introduction to Quantum Entanglement</i></a>. Cambridge University Press. p.&#160;301.</cite><span title=\"ctx&#95;ver=Z39.88-2004&amp;rf",
+          "x%3Abook&amp;rft.genre=book&amp;rft.btitle=Geometry+of+Quantum+States%3A+An+Introduction+to+Quantum+Entanglement&amp;rft.pages=301&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2006&amp;rft.aulast=%C5%BBycz"
+        ]
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T04:22:58.772755"
+}

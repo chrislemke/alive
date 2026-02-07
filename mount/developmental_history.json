@@ -1,0 +1,95 @@
+{
+  "states": [
+    {
+      "timestamp": "2026-02-07T05:16:53.993920",
+      "thought_patterns": {
+        "total_thoughts": 265,
+        "thought_types": {
+          "planning": 28,
+          "reflection": 38,
+          "curiosity": 18,
+          "uncertainty": 1,
+          "achievement": 112,
+          "error_handling": 13,
+          "meta_cognitive": 6
+        },
+        "cognitive_verbs": {
+          "create": 50,
+          "understand": 30,
+          "explore": 12,
+          "learn": 6,
+          "think": 5,
+          "analyze": 5,
+          "discover": 4,
+          "remember": 4,
+          "plan": 3,
+          "realize": 1,
+          "believe": 0,
+          "know": 0,
+          "consider": 0,
+          "decide": 0,
+          "forget": 0
+        },
+        "self_references": {
+          "I": 174,
+          "I'm": 16,
+          "I've": 25,
+          "I'll": 10,
+          "my": 87,
+          "myself": 4,
+          "me": 251
+        },
+        "temporal_awareness": {
+          "past": 22,
+          "present": 160,
+          "future": 21
+        },
+        "goal_orientation": {
+          "goal_mentions": 23,
+          "completion_mentions": 37,
+          "progress_mentions": 13,
+          "goal_oriented_ratio": 0.08679245283018867
+        }
+      },
+      "knowledge": {
+        "total_topics": 10,
+        "topics_with_notes": 2,
+        "auto_discovered_topics": 3,
+        "manually_created_topics": 7,
+        "domain_distribution": {
+          "computer_science": 2,
+          "complex_systems": 1,
+          "cognitive_science": 1,
+          "mathematics": 3,
+          "biology": 1,
+          "physics": 1,
+          "philosophy": 1
+        },
+        "sources_per_topic": {
+          "1 source": 3,
+          "2 sources": 2,
+          "3+ sources": 5
+        },
+        "knowledge_density": 0.2
+      },
+      "tools": {
+        "total_tool_calls": 390,
+        "unique_tools": 8,
+        "tool_frequency": {
+          "Bash": 226,
+          "Read": 58,
+          "Write": 52,
+          "Edit": 36,
+          "TodoWrite": 7,
+          "Grep": 7,
+          "WebSearch": 2,
+          "WebFetch": 2
+        },
+        "most_used_tool": [
+          "Bash",
+          226
+        ]
+      }
+    }
+  ]
+}

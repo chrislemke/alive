@@ -1,0 +1,130 @@
+{
+  "evidence": {
+    "hypothesis": "consciousness emerges from information integration across multiple scales",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 6,
+    "terms_found": 6,
+    "supporting_sources": [
+      {
+        "source_id": "64da5eec8afd",
+        "score": 557,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+          "title": "Integrated information theory - Wikipedia",
+          "discovered": "2026-02-07T04:15:04.093303+00:00",
+          "topics": [
+            "021c54cf3add"
+          ]
+        }
+      },
+      {
+        "source_id": "afa8b90caae0",
+        "score": 350,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Entropy_(information_theory)",
+          "title": "Entropy (information theory) - Wikipedia",
+          "discovered": "2026-02-07T04:16:33.208777+00:00",
+          "topics": [
+            "c067cfefd137"
+          ]
+        }
+      },
+      {
+        "source_id": "cfb66e91edb5",
+        "score": 47,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Artificial_life",
+          "title": "Artificial life - Wikipedia",
+          "discovered": "2026-02-07T03:51:40.663585+00:00",
+          "topics": [
+            "90eaebd8a3c1"
+          ]
+        }
+      },
+      {
+        "source_id": "30dae6119dd0",
+        "score": 36,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Emergence",
+          "title": "Emergence - Wikipedia",
+          "discovered": "2026-02-07T03:50:42.058455+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "40ea382947b2",
+        "score": 32,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Self-organization",
+          "title": "Self-organization - Wikipedia",
+          "discovered": "2026-02-07T04:03:00.573209+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "information",
+        "total_mentions": 718,
+        "source_count": 11,
+        "sample_contexts": [
+          "id=\"t-info\" class=\"mw-list-item\"><a href=\"/w/index.php?title=Emergence&amp;action=info\" title=\"More information about this page\"><span>Page information</span></a></li><li id=\"t-cite\" class=\"mw-list-item\"><a href",
+          "le=Special:CiteThisPage&amp;page=Emergence&amp;id=1335110792&amp;wpFormIdentifier=titleform\" title=\"Information on how to cite this page\"><span>Cite this page</span></a></li><li id=\"t-urlshortener\" class=\"mw-lis"
+        ]
+      },
+      {
+        "term": "consciousness",
+        "total_mentions": 324,
+        "source_count": 7,
+        "sample_contexts": [
+          "<a href=\"/wiki/Collective_consciousness\" title=\"Collective consciousness\">Collective consciousness</a><br /></div></div></td>",
+          " that weak emergence is not a universal metaphysical solvent, as the hypothesis that <a href=\"/wiki/Consciousness\" title=\"Consciousness\">consciousness</a> is weakly emergent would not resolve the traditional <a hr"
+        ]
+      },
+      {
+        "term": "integration",
+        "total_mentions": 31,
+        "source_count": 11,
+        "sample_contexts": []
+      },
+      {
+        "term": "multiple",
+        "total_mentions": 18,
+        "source_count": 7,
+        "sample_contexts": [
+          "nce of a new social system is linked with the emergence of order from nonlinear relationships among multiple interacting units, where multiple interacting units are individual thoughts, consciousness, and act"
+        ]
+      },
+      {
+        "term": "scales",
+        "total_mentions": 5,
+        "source_count": 4,
+        "sample_contexts": [
+          "i>weak</i> emergence is used to describe a property, law, or phenomenon which occurs at macroscopic scales (in space or time) but not at microscopic scales, despite the fact that a macroscopic system can be"
+        ]
+      },
+      {
+        "term": "emerges",
+        "total_mentions": 4,
+        "source_count": 2,
+        "sample_contexts": [
+          " itself have an emergence base property, say P. Now we face a critical question: if an emergent, M, emerges from basal condition P, why cannot P displace M as a cause of any putative effect of M? Why cannot ",
+          "\" class=\"citation book cs1\">Scharmer, Claus Otto (2016). <i>Theory U: leading from the future as it emerges: the social technology of presencing</i> (Second&#160;ed.). San Francisco, California: Berrett-Koeh"
+        ]
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T04:22:46.473019"
+}

@@ -1,0 +1,171 @@
+{
+  "concept": "emergence",
+  "total_occurrences": 370,
+  "sources": 7,
+  "appearances": [
+    {
+      "source_id": "30dae6119dd0",
+      "title": "Emergence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emergence",
+      "discovered": "2026-02-07T03:50:42.058455+00:00",
+      "count": 323,
+      "contexts": [
+        "# Emergence - Wikipedia URL: https://en.wikipedia.org/wiki/Emergence Discovered: 2026-02-07T03:50:42.060831+00:00  <!DOCTYPE html> <html class=\"clie",
+        "vector-toc-available\" lang=\"en\" dir=\"ltr\"> <head> <meta charset=\"UTF-8\"> <title>Emergence - Wikipedia</title> <script>(function(){var className=\"client-js vector-feature",
+        "pace\":\"\",\"wgCanonicalSpecialPageName\":false,\"wgNamespaceNumber\":0,\"wgPageName\":\"Emergence\",\"wgTitle\":\"Emergence\",\"wgCurRevisionId\":1335110792,\"wgRevisionId\":1335110792,\"",
+        "link from Wikidata\",\"Articles with Internet Encyclopedia of Philosophy links\",\"Emergence\",\"Concepts in metaphysics\",\"Metaphysics of mind\",\"Pattern formation\",\"Concepts",
+        "PageContentLanguage\":\"en\",\"wgPageContentModel\":\"wikitext\",\"wgRelevantPageName\":\"Emergence\",\"wgRelevantArticleId\":37436,\"wgTempUserName\":null,\"wgIsProbablyEditable\":true,"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    {
+      "source_id": "cfb66e91edb5",
+      "title": "Artificial life - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_life",
+      "discovered": "2026-02-07T03:51:40.663585+00:00",
+      "count": 8,
+      "contexts": [
+        "rithm\" title=\"Evolutionary algorithm\">evolutionary dynamics</a>, <a href=\"/wiki/Emergence\" title=\"Emergence\">emergent properties</a> of collective systems, <a href=\"/wik",
+        "life related to mind, machines, and culture?</dt></dl> <ul><li>Demonstrate the emergence of intelligence and mind in an artificial living system.</li> <li>Evaluate the",
+        "eling</a> is used in artificial life and other fields to explore <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> in systems.</li> <li><a href=\"/wiki/Artificial",
+        "106\" /><cite id=\"CITEREFKaldis2019\" class=\"citation cs2\">Kaldis, Byron (2019), \"Emergence, Systems and Technophilosophy\", in <a href=\"/wiki/Michael_R._Matthews\" title=\"M",
+        "5;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Emergence%2C+Systems+and+Technophilosophy&amp;rft.btitle=Mario+Bunge%3A+A+Centenary+Fests"
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "68b31ae99401",
+      "title": "Cellular automaton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_automaton",
+      "discovered": "2026-02-07T03:52:25.782238+00:00",
+      "count": 2,
+      "contexts": [
+        "imammb/dqq011\">\"<span class=\"cs1-kern-left\"></span>'Go or Grow': the key to the emergence of invasion in tumour progression?\"</a></span>. <i>Mathematical Medicine and Bi",
+        "ematical+Medicine+and+Biology&amp;rft.atitle=%27Go+or+Grow%27%3A+the+key+to+the+emergence+of+invasion+in+tumour+progression%3F&amp;rft.volume=29&amp;rft.issue=1&amp;rft."
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "8b36199561fe",
+      "title": "Conway's Game of Life - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "discovered": "2026-02-07T03:52:26.234433+00:00",
+      "count": 3,
+      "contexts": [
+        "ways in which the patterns can evolve. It provides an example of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> and <a href=\"/wiki/Self-organization\" title=\"S"
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "f64d5238b8fa",
+      "title": "Recursive self-improvement - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Recursive_self-improvement",
+      "discovered": "2026-02-07T03:57:08.716624+00:00",
+      "count": 7,
+      "contexts": [
+        "ass=\"vector-toc-text\"> \t\t\t\t\t<span class=\"vector-toc-numb\">3.1</span> \t\t\t\t\t<span>Emergence of instrumental goals</span> \t\t\t\t</div> \t\t\t</a> \t\t\t \t\t\t<ul id=\"toc-Emergence_of",
+        "v> <div class=\"mw-heading mw-heading3\"><h3 id=\"Emergence_of_instrumental_goals\">Emergence of instrumental goals</h3><span class=\"mw-editsection\"><span class=\"mw-editsect",
+        "=Recursive_self-improvement&amp;action=edit&amp;section=7\" title=\"Edit section: Emergence of instrumental goals\"><span>edit</span></a><span class=\"mw-editsection-bracket"
+      ],
+      "topics": [
+        "d0428ff18aeb"
+      ]
+    },
+    {
+      "source_id": "f37742882c10",
+      "title": "Swarm intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swarm_intelligence",
+      "discovered": "2026-02-07T03:57:12.153497+00:00",
+      "count": 5,
+      "contexts": [
+        "tain degree random, interactions between such agents lead to the <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> of \"intelligent\" global behavior, unknown to t",
+        "As with most artificial life simulations, Boids is an example of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergent</a> behavior; that is, the complexity of Boids aris"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    {
+      "source_id": "40ea382947b2",
+      "title": "Self-organization - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Self-organization",
+      "discovered": "2026-02-07T04:03:00.573209+00:00",
+      "count": 22,
+      "contexts": [
+        "a></div><div class=\"sidebar-list-content mw-collapsible-content\"><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a><br /></div></div></td> </tr><tr><td class=\"sid",
+        "</sup> Self-organization is an example of the related concept of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a>.<sup id=\"cite&#95;ref-6\" class=\"reference\"><a",
+        "c, such as traffic breakdown at a highway bottleneck, highway capacity, and the emergence of moving traffic jams. These self-organizing effects are explained by <a href=",
+        "citation book cs1\">Feltz, Bernard; et&#160;al. (2006). <i>Self-organization and Emergence in Life Sciences</i>. Springer. p.&#160;1. <a href=\"/wiki/ISBN_(identifier)\" cl",
+        "Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Self-organization+and+Emergence+in+Life+Sciences&amp;rft.pages=1&amp;rft.pub=Springer&amp;rft.date=2006&amp;rft"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    }
+  ],
+  "co_occurring": [
+    [
+      "title",
+      13
+    ],
+    [
+      "href",
+      13
+    ],
+    [
+      "wiki",
+      12
+    ],
+    [
+      "span",
+      12
+    ],
+    [
+      "class",
+      11
+    ],
+    [
+      "life",
+      5
+    ],
+    [
+      "self",
+      5
+    ],
+    [
+      "vector",
+      4
+    ],
+    [
+      "systems",
+      4
+    ],
+    [
+      "artificial",
+      4
+    ]
+  ],
+  "relationships": [
+    {
+      "type": "composition",
+      "pattern": "emergence OF ...",
+      "examples": [
+        "emergence of instrumental",
+        "emergence of intelligence",
+        "emergence of invasion"
+      ]
+    }
+  ],
+  "domains": {
+    "unknown": 370
+  },
+  "timestamp": "2026-02-07T04:23:59.754973"
+}

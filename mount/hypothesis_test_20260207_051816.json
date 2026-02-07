@@ -1,0 +1,153 @@
+{
+  "evidence": {
+    "hypothesis": "Self-awareness emerges from systems that can model their own cognitive processes",
+    "evidence_found": true,
+    "confidence": 100,
+    "terms_searched": 8,
+    "terms_found": 8,
+    "supporting_sources": [
+      {
+        "source_id": "40ea382947b2",
+        "score": 561,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Self-organization",
+          "title": "Self-organization - Wikipedia",
+          "discovered": "2026-02-07T04:03:00.573209+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "551b2ad06dcb",
+        "score": 296,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Chaos_theory",
+          "title": "Chaos theory - Wikipedia",
+          "discovered": "2026-02-07T04:36:55.604653+00:00",
+          "topics": [
+            "a2aca32e135f"
+          ]
+        }
+      },
+      {
+        "source_id": "00b4e71d5c57",
+        "score": 255,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+          "title": "Philosophy of mind - Wikipedia",
+          "discovered": "2026-02-07T04:44:48.558664+00:00",
+          "topics": [
+            "Philosophy of Mind"
+          ],
+          "topic": "Philosophy of Mind"
+        }
+      },
+      {
+        "source_id": "30dae6119dd0",
+        "score": 206,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Emergence",
+          "title": "Emergence - Wikipedia",
+          "discovered": "2026-02-07T03:50:42.058455+00:00",
+          "topics": [
+            "f3e879b18fe6"
+          ]
+        }
+      },
+      {
+        "source_id": "8a88729d4b41",
+        "score": 191,
+        "metadata": {
+          "url": "https://en.wikipedia.org/wiki/Fractal",
+          "title": "Fractal - Wikipedia",
+          "discovered": "2026-02-07T04:51:31.120800+00:00",
+          "topics": [
+            "Chaos Theory"
+          ]
+        }
+      }
+    ],
+    "key_findings": [
+      {
+        "term": "self",
+        "total_mentions": 1183,
+        "source_count": 26,
+        "sample_contexts": [
+          "></sup> This exhibition of similar patterns at increasingly smaller scales is called <a href=\"/wiki/Self-similarity\" title=\"Self-similarity\">self-similarity</a>, also known as expanding symmetry or unfold",
+          " sponge</a>, the shape is called <a href=\"/wiki/Affine_geometry\" title=\"Affine geometry\">affine</a> self-similar.<sup id=\"cite&#95;ref-Gouyet&#95;5-0\" class=\"reference\"><a href=\"#cite_note-Gouyet-5\"><span"
+        ]
+      },
+      {
+        "term": "systems",
+        "total_mentions": 922,
+        "source_count": 24,
+        "sample_contexts": [
+          "es recursive <a href=\"/wiki/Iterated_function_systems\" class=\"mw-redirect\" title=\"Iterated function systems\">IFS</a></figcaption></figure>",
+          "ng pattern modeled <a href=\"/wiki/In_silico\" title=\"In silico\">in silico</a> using <a href=\"/wiki/L-systems\" class=\"mw-redirect\" title=\"L-systems\">L-systems</a> principles<sup id=\"cite&#95;ref-branching&#95;"
+        ]
+      },
+      {
+        "term": "model",
+        "total_mentions": 686,
+        "source_count": 27,
+        "sample_contexts": [
+          "\"wgCheckUserClientHintsHeadersJsApi\":[\"brands\",\"architecture\",\"bitness\",\"fullVersionList\",\"mobile\",\"model\",\"platform\",\"platformVersion\"],\"GEHomepageSuggestedEditsEnableTopics\":true,\"wgGESuggestedEditsTaskT",
+          "uch as coastlines and mountains. A limitation of modeling fractals is that resemblance of a fractal model to a natural phenomenon does not prove that the phenomenon being modeled is formed by a process sim"
+        ]
+      },
+      {
+        "term": "cognitive",
+        "total_mentions": 269,
+        "source_count": 15,
+        "sample_contexts": [
+          "an>100<span class=\"cite-bracket\">&#93;</span></a></sup> These include stress-reduction and enhanced cognitive capacity. Designers and architects incorporate biophilic fractals into the built environment to cou",
+          "atterns with fractal dimensions in this range, these fractals reduce physiological stress and boost cognitive abilities.<sup id=\"cite&#95;ref-Taylor&#95;2006&#95;106-0\" class=\"reference\"><a href=\"#cite_note-Ta"
+        ]
+      },
+      {
+        "term": "their",
+        "total_mentions": 164,
+        "source_count": 22,
+        "sample_contexts": [
+          " of <a href=\"/wiki/Measure_theory\" class=\"mw-redirect\" title=\"Measure theory\">measure theory</a> by their <a href=\"/wiki/Hausdorff_dimension\" title=\"Hausdorff dimension\">Hausdorff dimension</a>.",
+          "s a defining characteristic in order to accommodate physical fractals with more limited ranges than their mathematical counterparts.<sup id=\"cite&#95;ref-43\" class=\"reference\"><a href=\"#cite_note-43\"><span"
+        ]
+      },
+      {
+        "term": "processes",
+        "total_mentions": 147,
+        "source_count": 21,
+        "sample_contexts": [
+          "acket\">&#93;</span></a></sup> Fractals are not limited to geometric patterns, but can also describe processes in time.<sup id=\"cite&#95;ref-Gouyet&#95;5-1\" class=\"reference\"><a href=\"#cite_note-Gouyet-5\"><span",
+          "le=\"Chaos theory\">chaos theory</a> because they show up in the geometric depictions of most chaotic processes (typically either as attractors or as boundaries between basins of attraction).<sup id=\"cite&#95;re"
+        ]
+      },
+      {
+        "term": "awareness",
+        "total_mentions": 29,
+        "source_count": 8,
+        "sample_contexts": [
+          " the result of self-transcending knowledge after a successful journey along the U through layers of awareness.<sup id=\"cite&#95;ref-40\" class=\"reference\"><a href=\"#cite_note-40\"><span class=\"cite-bracket\">&#91"
+        ]
+      },
+      {
+        "term": "emerges",
+        "total_mentions": 9,
+        "source_count": 6,
+        "sample_contexts": [
+          " itself have an emergence base property, say P. Now we face a critical question: if an emergent, M, emerges from basal condition P, why cannot P displace M as a cause of any putative effect of M? Why cannot ",
+          "\" class=\"citation book cs1\">Scharmer, Claus Otto (2016). <i>Theory U: leading from the future as it emerges: the social technology of presencing</i> (Second&#160;ed.). San Francisco, California: Berrett-Koeh"
+        ]
+      }
+    ]
+  },
+  "suggestions": [
+    {
+      "type": "validation",
+      "action": "Search for contradictory evidence or alternative explanations",
+      "reason": "Strong supporting evidence found - now validate by seeking counter-evidence"
+    }
+  ],
+  "timestamp": "2026-02-07T05:18:16.433535"
+}

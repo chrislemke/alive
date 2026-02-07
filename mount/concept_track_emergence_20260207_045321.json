@@ -1,0 +1,290 @@
+{
+  "concept": "emergence",
+  "total_occurrences": 408,
+  "sources": 15,
+  "appearances": [
+    {
+      "source_id": "30dae6119dd0",
+      "title": "Emergence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Emergence",
+      "discovered": "2026-02-07T03:50:42.058455+00:00",
+      "count": 323,
+      "contexts": [
+        "# Emergence - Wikipedia URL: https://en.wikipedia.org/wiki/Emergence Discovered: 2026-02-07T03:50:42.060831+00:00  <!DOCTYPE html> <html class=\"clie",
+        "vector-toc-available\" lang=\"en\" dir=\"ltr\"> <head> <meta charset=\"UTF-8\"> <title>Emergence - Wikipedia</title> <script>(function(){var className=\"client-js vector-feature",
+        "pace\":\"\",\"wgCanonicalSpecialPageName\":false,\"wgNamespaceNumber\":0,\"wgPageName\":\"Emergence\",\"wgTitle\":\"Emergence\",\"wgCurRevisionId\":1335110792,\"wgRevisionId\":1335110792,\"",
+        "link from Wikidata\",\"Articles with Internet Encyclopedia of Philosophy links\",\"Emergence\",\"Concepts in metaphysics\",\"Metaphysics of mind\",\"Pattern formation\",\"Concepts",
+        "PageContentLanguage\":\"en\",\"wgPageContentModel\":\"wikitext\",\"wgRelevantPageName\":\"Emergence\",\"wgRelevantArticleId\":37436,\"wgTempUserName\":null,\"wgIsProbablyEditable\":true,"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    {
+      "source_id": "cfb66e91edb5",
+      "title": "Artificial life - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Artificial_life",
+      "discovered": "2026-02-07T03:51:40.663585+00:00",
+      "count": 8,
+      "contexts": [
+        "rithm\" title=\"Evolutionary algorithm\">evolutionary dynamics</a>, <a href=\"/wiki/Emergence\" title=\"Emergence\">emergent properties</a> of collective systems, <a href=\"/wik",
+        "life related to mind, machines, and culture?</dt></dl> <ul><li>Demonstrate the emergence of intelligence and mind in an artificial living system.</li> <li>Evaluate the",
+        "eling</a> is used in artificial life and other fields to explore <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> in systems.</li> <li><a href=\"/wiki/Artificial",
+        "106\" /><cite id=\"CITEREFKaldis2019\" class=\"citation cs2\">Kaldis, Byron (2019), \"Emergence, Systems and Technophilosophy\", in <a href=\"/wiki/Michael_R._Matthews\" title=\"M",
+        "5;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Emergence%2C+Systems+and+Technophilosophy&amp;rft.btitle=Mario+Bunge%3A+A+Centenary+Fests"
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "68b31ae99401",
+      "title": "Cellular automaton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cellular_automaton",
+      "discovered": "2026-02-07T03:52:25.782238+00:00",
+      "count": 2,
+      "contexts": [
+        "imammb/dqq011\">\"<span class=\"cs1-kern-left\"></span>'Go or Grow': the key to the emergence of invasion in tumour progression?\"</a></span>. <i>Mathematical Medicine and Bi",
+        "ematical+Medicine+and+Biology&amp;rft.atitle=%27Go+or+Grow%27%3A+the+key+to+the+emergence+of+invasion+in+tumour+progression%3F&amp;rft.volume=29&amp;rft.issue=1&amp;rft."
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "8b36199561fe",
+      "title": "Conway's Game of Life - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "discovered": "2026-02-07T03:52:26.234433+00:00",
+      "count": 3,
+      "contexts": [
+        "ways in which the patterns can evolve. It provides an example of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> and <a href=\"/wiki/Self-organization\" title=\"S"
+      ],
+      "topics": [
+        "90eaebd8a3c1"
+      ]
+    },
+    {
+      "source_id": "f64d5238b8fa",
+      "title": "Recursive self-improvement - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Recursive_self-improvement",
+      "discovered": "2026-02-07T03:57:08.716624+00:00",
+      "count": 7,
+      "contexts": [
+        "ass=\"vector-toc-text\"> \t\t\t\t\t<span class=\"vector-toc-numb\">3.1</span> \t\t\t\t\t<span>Emergence of instrumental goals</span> \t\t\t\t</div> \t\t\t</a> \t\t\t \t\t\t<ul id=\"toc-Emergence_of",
+        "v> <div class=\"mw-heading mw-heading3\"><h3 id=\"Emergence_of_instrumental_goals\">Emergence of instrumental goals</h3><span class=\"mw-editsection\"><span class=\"mw-editsect",
+        "=Recursive_self-improvement&amp;action=edit&amp;section=7\" title=\"Edit section: Emergence of instrumental goals\"><span>edit</span></a><span class=\"mw-editsection-bracket"
+      ],
+      "topics": [
+        "d0428ff18aeb"
+      ]
+    },
+    {
+      "source_id": "f37742882c10",
+      "title": "Swarm intelligence - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swarm_intelligence",
+      "discovered": "2026-02-07T03:57:12.153497+00:00",
+      "count": 5,
+      "contexts": [
+        "tain degree random, interactions between such agents lead to the <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a> of \"intelligent\" global behavior, unknown to t",
+        "As with most artificial life simulations, Boids is an example of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergent</a> behavior; that is, the complexity of Boids aris"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    {
+      "source_id": "40ea382947b2",
+      "title": "Self-organization - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Self-organization",
+      "discovered": "2026-02-07T04:03:00.573209+00:00",
+      "count": 22,
+      "contexts": [
+        "a></div><div class=\"sidebar-list-content mw-collapsible-content\"><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a><br /></div></div></td> </tr><tr><td class=\"sid",
+        "</sup> Self-organization is an example of the related concept of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a>.<sup id=\"cite&#95;ref-6\" class=\"reference\"><a",
+        "c, such as traffic breakdown at a highway bottleneck, highway capacity, and the emergence of moving traffic jams. These self-organizing effects are explained by <a href=",
+        "citation book cs1\">Feltz, Bernard; et&#160;al. (2006). <i>Self-organization and Emergence in Life Sciences</i>. Springer. p.&#160;1. <a href=\"/wiki/ISBN_(identifier)\" cl",
+        "Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Self-organization+and+Emergence+in+Life+Sciences&amp;rft.pages=1&amp;rft.pub=Springer&amp;rft.date=2006&amp;rft"
+      ],
+      "topics": [
+        "f3e879b18fe6"
+      ]
+    },
+    {
+      "source_id": "551b2ad06dcb",
+      "title": "Chaos theory - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chaos_theory",
+      "discovered": "2026-02-07T04:36:55.604653+00:00",
+      "count": 7,
+      "contexts": [
+        "=\"Boris Chirikov\">Boris Valerianovich Chirikov</a> proposed a criterion for the emergence of classical chaos in Hamiltonian systems (<a href=\"/wiki/Chirikov_criterion\" t",
+        "/Edge_of_chaos\" title=\"Edge of chaos\">Edge of chaos</a></li> <li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li> <li><a href=\"/wiki/Mandelbrot_set\" title=",
+        "ttern recognition (psychology)\">Pattern recognition</a></li> <li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li> <li><a href=\"/wiki/Mathematics_and_art\" t"
+      ],
+      "topics": [
+        "a2aca32e135f"
+      ]
+    },
+    {
+      "source_id": "00b4e71d5c57",
+      "title": "Philosophy of mind - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+      "discovered": "2026-02-07T04:44:48.558664+00:00",
+      "count": 2,
+      "contexts": [
+        "REFMegill2012\" class=\"citation journal cs1\">Megill, Jason (2012). \"A Defense of Emergence\". <i>Axiomathes</i>. <b>23</b> (4): <span class=\"nowrap\">597\u2013</span>615. <a hre",
+        "nal&amp;rft.genre=article&amp;rft.jtitle=Axiomathes&amp;rft.atitle=A+Defense+of+Emergence&amp;rft.volume=23&amp;rft.issue=4&amp;rft.pages=597-615&amp;rft.date=2012&amp;r"
+      ],
+      "topics": [
+        "Philosophy of Mind"
+      ]
+    },
+    {
+      "source_id": "65b5ddeaf785",
+      "title": "Hard problem of consciousness - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+      "discovered": "2026-02-07T04:51:20.798155+00:00",
+      "count": 5,
+      "contexts": [
+        "on scientific discovery and its interpretation. With evidence of <a href=\"/wiki/Emergence\" title=\"Emergence\">emergence</a>, it resolves to strong reductionism under type",
+        "ef=\"https://books.google.com/books?id=PFnRwWXzypgC\"><i>In search of memory: The emergence of a new science of mind</i></a>. W. W. Norton &amp; Company. pp.&#160;<span cl",
+        "3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In+search+of+memory%3A+The+emergence+of+a+new+science+of+mind&amp;rft.pages=380-382&amp;rft.pub=W.+W.+Norton+%26+Com"
+      ],
+      "topics": [
+        "Consciousness"
+      ]
+    },
+    {
+      "source_id": "8e9607620db8",
+      "title": "Global workspace theory - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+      "discovered": "2026-02-07T04:51:22.006824+00:00",
+      "count": 1,
+      "contexts": [
+        "ation is broadcast back to the global workspace creating the conditions for the emergence of a single state of consciousness, at once differentiated and integrated. </p>"
+      ],
+      "topics": [
+        "Consciousness"
+      ]
+    },
+    {
+      "source_id": "8a88729d4b41",
+      "title": "Fractal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fractal",
+      "discovered": "2026-02-07T04:51:31.120800+00:00",
+      "count": 5,
+      "contexts": [
+        "s=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11041685\">\"Emergence of fractal geometries in the evolution of a metabolic enzyme\"</a>. <i>Nature</i",
+        "Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Emergence+of+fractal+geometries+in+the+evolution+of+a+metabolic+enzyme&amp;rft.volume=628",
+        "ttern recognition (psychology)\">Pattern recognition</a></li> <li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li> <li><a href=\"/wiki/Mathematics_and_art\" t"
+      ],
+      "topics": [
+        "Chaos Theory"
+      ]
+    },
+    {
+      "source_id": "774282b8de48",
+      "title": "Humberto Maturana - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Humberto_Maturana",
+      "discovered": "2026-02-07T04:51:37.392987+00:00",
+      "count": 6,
+      "contexts": [
+        "ion_theory\" title=\"Decision theory\">Decision theory</a></li> <li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li> <li><a href=\"/wiki/Engineering_cybernetic",
+        "/Holism_in_science\" title=\"Holism in science\">Holism</a> <ul><li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li></ul></li> <li><a href=\"/wiki/Evolutionary"
+      ],
+      "topics": [
+        "Autopoiesis"
+      ]
+    },
+    {
+      "source_id": "c2dfea94ae82",
+      "title": "Francisco Varela - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Varela",
+      "discovered": "2026-02-07T04:51:38.957938+00:00",
+      "count": 6,
+      "contexts": [
+        "ion_theory\" title=\"Decision theory\">Decision theory</a></li> <li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li> <li><a href=\"/wiki/Engineering_cybernetic",
+        "/Holism_in_science\" title=\"Holism in science\">Holism</a> <ul><li><a href=\"/wiki/Emergence\" title=\"Emergence\">Emergence</a></li></ul></li> <li><a href=\"/wiki/Evolutionary"
+      ],
+      "topics": [
+        "Autopoiesis"
+      ]
+    },
+    {
+      "source_id": "ab7674076b16",
+      "title": "Enactivism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enactivism",
+      "discovered": "2026-02-07T04:51:42.835754+00:00",
+      "count": 6,
+      "contexts": [
+        "ral neuroscience\",\"Cognitive science\",\"Consciousness\",\"Educational psychology\",\"Emergence\",\"Epistemology of science\",\"Knowledge representation\",\"Metaphysics of mind\",\"Mo",
+        "href=\"https://books.google.com/books?id=OVGna4ZEpWwC&amp;pg=PA13\">\"Autonomy and emergence\"</a>. <i>Mind in life</i> (Paperback&#160;ed.). Harvard University Press. pp.&#",
+        "ofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Autonomy+and+emergence&amp;rft.btitle=Mind+in+life&amp;rft.pages=37+%27%27ff%27%27&amp;rft.edition=Pap",
+        "cational psychology\">Educational psychology</a></li><li><a href=\"/wiki/Category:Emergence\" title=\"Category:Emergence\">Emergence</a></li><li><a href=\"/wiki/Category:Epist"
+      ],
+      "topics": [
+        "Autopoiesis"
+      ]
+    }
+  ],
+  "co_occurring": [
+    [
+      "href",
+      33
+    ],
+    [
+      "wiki",
+      30
+    ],
+    [
+      "title",
+      28
+    ],
+    [
+      "span",
+      15
+    ],
+    [
+      "class",
+      13
+    ],
+    [
+      "mind",
+      8
+    ],
+    [
+      "life",
+      7
+    ],
+    [
+      "genre",
+      6
+    ],
+    [
+      "science",
+      6
+    ],
+    [
+      "systems",
+      5
+    ]
+  ],
+  "relationships": [
+    {
+      "type": "composition",
+      "pattern": "emergence OF ...",
+      "examples": [
+        "emergence of instrumental",
+        "emergence of a",
+        "emergence of intelligence"
+      ]
+    }
+  ],
+  "domains": {
+    "complex_systems": 350,
+    "computer_science": 20,
+    "mathematics": 7,
+    "unknown": 31
+  },
+  "timestamp": "2026-02-07T04:53:21.655362"
+}
