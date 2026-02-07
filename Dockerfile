@@ -4,7 +4,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 ENV LANG=C.UTF-8
 ENV LC_ALL=C.UTF-8
 
-# Core utilities and build essentials
+# Core utilities, build essentials, and C/C++ toolchain
 RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     wget \
@@ -12,6 +12,15 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     ca-certificates \
     gnupg \
     build-essential \
+    gcc \
+    g++ \
+    clang \
+    cmake \
+    make \
+    gdb \
+    valgrind \
+    pkg-config \
+    libssl-dev \
     sudo \
     zsh \
     && rm -rf /var/lib/apt/lists/*
@@ -36,6 +45,10 @@ RUN useradd -m -s /bin/zsh dev \
 USER dev
 WORKDIR /home/dev
 
+# Rust (via rustup)
+RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+ENV PATH="/home/dev/.cargo/bin:${PATH}"
+
 # Oh My Zsh
 RUN sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 
@@ -48,6 +61,7 @@ RUN echo 'export PATH="${HOME}/.local/bin:${PATH}"' >> "${HOME}/.zshrc"
 # Project files
 COPY --chown=dev:dev CLAUDE.md /home/dev/CLAUDE.md
 COPY --chown=dev:dev format_log.py /home/dev/format_log.py
+COPY --chown=dev:dev learning_loop.py /home/dev/learning_loop.py
 COPY --chown=dev:dev entrypoint.sh /home/dev/entrypoint.sh
 
 # Skip Claude Code onboarding
