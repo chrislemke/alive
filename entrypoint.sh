@@ -5,18 +5,17 @@ LOG=/home/dev/mnt/alive.log
 PAUSE=5
 
 while true; do
-  # --- CLAUDE.md aus mnt/ übernehmen (falls vorhanden) ---
-  if [[ -f /home/dev/mnt/CLAUDE.md ]]; then
-    cp /home/dev/mnt/CLAUDE.md /home/dev/CLAUDE.md
-    echo "[$(date -Iseconds)] CLAUDE.md loaded from mnt/" | tee -a "$LOG"
-  fi
+  # --- CLAUDE.md: Basis bleibt immer das eingebaute File ---
+  # Das Organism kann mnt/CLAUDE_NOTES.md für eigene Ergänzungen nutzen,
+  # aber die Grundidentität kommt immer vom eingebauten CLAUDE.md.
+  echo "[$(date -Iseconds)] Using built-in CLAUDE.md" | tee -a "$LOG"
 
   # --- Prompt aus mnt/prompt.md lesen (mit Fallback) ---
   if [[ -f /home/dev/mnt/prompt.md ]]; then
     PROMPT=$(</home/dev/mnt/prompt.md)
     echo "[$(date -Iseconds)] Prompt loaded from mnt/prompt.md" | tee -a "$LOG"
   else
-    PROMPT="You have just woken up. Read your CLAUDE.md to remember who you are and what your goals are. Then check mnt/ for any state you saved in previous cycles — look for notes, plans, or progress files. Resume where you left off. Before you exit, always write your current state and next steps to mnt/ so your future self can continue. Use your tools freely. When you feel you've done enough for now, exit — you will be restarted."
+    PROMPT="You have just woken up. Read your CLAUDE.md — it tells you who you are and how to spend your time. Then read mnt/state.md to pick up where you left off. Orient fast, then go deep on something. Before your session ends, update mnt/state.md for your next self."
     echo "[$(date -Iseconds)] Using default prompt (mnt/prompt.md not found)" | tee -a "$LOG"
   fi
 
@@ -25,6 +24,7 @@ while true; do
   START_TIME=$(date +%s)
 
   claude --dangerously-skip-permissions --verbose -p \
+    --max-turns 50 \
     --output-format stream-json \
     "$PROMPT" \
     2>&1 | python3 /home/dev/format_log.py | tee -a "$LOG"
